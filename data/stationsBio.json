@@ -1,0 +1,1970 @@
+[
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2607623239965933,
+        "coordY": 49.82709104527988,
+        "libelleStation": "LA SOMME RIVIÈRE À GAUCHY (02)",
+        "codeStation": "01116500"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2116845699286123,
+        "coordY": 49.78202269983528,
+        "libelleStation": "LA SOMME RIVIÈRE À SÉRAUCOURT-LE-GRAND (02)",
+        "codeStation": "01117000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.0699647809154778,
+        "coordY": 49.750570421830055,
+        "libelleStation": "LA SOMME RIVIÈRE À HAM (80)",
+        "codeStation": "01118000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.007198757252891,
+        "coordY": 49.75976383788054,
+        "libelleStation": "LA SOMME RIVIÈRE À OFFOY (80)",
+        "codeStation": "01119000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.173868211868702,
+        "coordY": 49.74180926270111,
+        "libelleStation": "LE CANAL DE SAINT QUENTIN À SAINT SIMON (02)",
+        "codeStation": "01123000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.140150031238899,
+        "coordY": 49.74133194479732,
+        "libelleStation": "LA SOMME CANALISÉE À DURY (02)",
+        "codeStation": "01124000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.0058505554733985,
+        "coordY": 49.75889724292766,
+        "libelleStation": "LA SOMME CANALISÉE À OFFOY (80)",
+        "codeStation": "01125000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.914126313037408,
+        "coordY": 49.75171830397981,
+        "libelleStation": "L'INGON À NESLE (80)",
+        "codeStation": "01131500"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.7263235068433493,
+        "coordY": 49.69575885792312,
+        "libelleStation": "L'AVRE À L'ÉCHELLE SAINT AURIN (80)",
+        "codeStation": "01134000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.476578059980133,
+        "coordY": 49.77133060400824,
+        "libelleStation": "L'AVRE À MOREUIL (80)",
+        "codeStation": "01134500"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.5284058596115035,
+        "coordY": 49.6696379013389,
+        "libelleStation": "LES TROIS DOMS À FONTAINE/MONTDIDIER (80)",
+        "codeStation": "01136000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.3896195502786637,
+        "coordY": 49.80095155413044,
+        "libelleStation": "LA NOYE À DOMMARTIN (80)",
+        "codeStation": "01137000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.3427360481913753,
+        "coordY": 49.698364647292294,
+        "libelleStation": "LA NOYE À LA FALOISE (80)",
+        "codeStation": "01137100"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4625172159273707,
+        "coordY": 49.80952057449308,
+        "libelleStation": "LA LUCE À THENNES (80)",
+        "codeStation": "01137500"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.1697299288630014,
+        "coordY": 49.70924112741829,
+        "libelleStation": "LA SELLE À MONSURES (80)",
+        "codeStation": "01138100"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.023008438956717,
+        "coordY": 49.75025624837391,
+        "libelleStation": "LES ÉVOISSONS À BERGICOURT (80)",
+        "codeStation": "01138300"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.0410380187607617,
+        "coordY": 49.760302760160286,
+        "libelleStation": "LA RIVIÈRE DE POIX À FAMECHON (80)",
+        "codeStation": "01138500"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.8898260304923027,
+        "coordY": 48.50738037964613,
+        "libelleStation": "LA SEINE A MERY-SUR-SEINE 1",
+        "codeStation": "03006000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.6808252205179675,
+        "coordY": 48.548937958899515,
+        "libelleStation": "LA SEINE A CONFLANS-SUR-SEINE 1",
+        "codeStation": "03011300"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.7333720018122842,
+        "coordY": 48.88178697464865,
+        "libelleStation": "LE RU DE BICHERET A MONTEVRAIN 1",
+        "codeStation": "03011780"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.588113314028294,
+        "coordY": 48.46612858567709,
+        "libelleStation": "L'ARDUSSON A FERREUX-QUINCEY 2",
+        "codeStation": "03011840"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.4162076716528977,
+        "coordY": 48.46850193633194,
+        "libelleStation": "LA SEINE A COURCEROY 1",
+        "codeStation": "03012100"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.422835917209975,
+        "coordY": 48.41634409863149,
+        "libelleStation": "L'ORVIN A TRAINEL 1",
+        "codeStation": "03012355"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2762541703204637,
+        "coordY": 48.54233480868439,
+        "libelleStation": "LA VOULZIE A POIGNY 1",
+        "codeStation": "03013210"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2349334238106118,
+        "coordY": 48.48789357976568,
+        "libelleStation": "LA VOULZIE A JUTIGNY 1",
+        "codeStation": "03013300"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.29638264566807,
+        "coordY": 48.45796704143966,
+        "libelleStation": "LA GRANDE NOUE D'HERMÉ A GOUAIX 1",
+        "codeStation": "03013372"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.1733799849273177,
+        "coordY": 48.44091953009859,
+        "libelleStation": "L'AUXENCE A VIMPELLES 2",
+        "codeStation": "03013660"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.9927719395714254,
+        "coordY": 48.3996531927572,
+        "libelleStation": "LE RU DE L'ÉTANG A SAINT-GERMAIN-LAVAL 1",
+        "codeStation": "03013930"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.9596797785111164,
+        "coordY": 48.388823586511364,
+        "libelleStation": "LA SEINE A MONTEREAU-FAULT-YONNE 1",
+        "codeStation": "03014000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.8703865466821057,
+        "coordY": 48.67972164794607,
+        "libelleStation": "LA SUPERBE A MARIGNY 1",
+        "codeStation": "03020650"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.7774675127226574,
+        "coordY": 48.57321015366847,
+        "libelleStation": "L'AUBE A BAUDEMENT 1",
+        "codeStation": "03021000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.8700143584245326,
+        "coordY": 48.38530489590637,
+        "libelleStation": "LE RU FLAVIEN A VERNOU-LA-CELLE-SUR-SEINE 2",
+        "codeStation": "03023700"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.484246048317944,
+        "coordY": 47.96279269749963,
+        "libelleStation": "L'YONNE A LAROCHE-SAINT-CYDROINE 1",
+        "codeStation": "03029140"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.3440238802002047,
+        "coordY": 47.993965296368565,
+        "libelleStation": "L'YONNE A CEZY 1",
+        "codeStation": "03029470"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2676056320293947,
+        "coordY": 48.02395081967297,
+        "libelleStation": "RU D'OCQ A ST JULIEN DU SAULT",
+        "codeStation": "03029630"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.345076569429797,
+        "coordY": 48.06716418240412,
+        "libelleStation": "LE RU GALANT A VILLENEUVE-SUR-YONNE 1",
+        "codeStation": "03029798"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.306748680713942,
+        "coordY": 48.09296657639656,
+        "libelleStation": "Rû de saint-Ange",
+        "codeStation": "03029865"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.252328417741574,
+        "coordY": 48.11209996282903,
+        "libelleStation": "RU DE MONTGERIN À MARSANGY",
+        "codeStation": "03029910"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.294475147604639,
+        "coordY": 48.13460696760907,
+        "libelleStation": "L'YONNE A VERON 1",
+        "codeStation": "03030000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2549181078307337,
+        "coordY": 48.15872703930222,
+        "libelleStation": "LE RU DE COLLEMIERS A GRON 1",
+        "codeStation": "03030155"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2756926835135367,
+        "coordY": 48.21135247971268,
+        "libelleStation": "LA GAILLARDE A SAINT-DENIS 1",
+        "codeStation": "03030457"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.245028066018298,
+        "coordY": 48.22602193629197,
+        "libelleStation": "RUISSEAU DES SALLES À COURTOIS SUR YONNE",
+        "codeStation": "03030550"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2061623959959635,
+        "coordY": 48.287740211542804,
+        "libelleStation": "L'YONNE A PONT-SUR-YONNE 2",
+        "codeStation": "03031040"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.9594782457291635,
+        "coordY": 48.387420033720986,
+        "libelleStation": "L'YONNE A MONTEREAU-FAULT-YONNE 1",
+        "codeStation": "03032000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.531826155985912,
+        "coordY": 47.95600842543689,
+        "libelleStation": "L'ARMANÇON A CHENY 1",
+        "codeStation": "03039000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.8217533433173685,
+        "coordY": 48.24982097208029,
+        "libelleStation": "L'ANCRE A ESTISSAC 1",
+        "codeStation": "03043450"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.7436682302424544,
+        "coordY": 48.211780989838005,
+        "libelleStation": "LA NOSLE A AIX-EN-OTHE 1",
+        "codeStation": "03044170"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.615520053920093,
+        "coordY": 48.21821107401413,
+        "libelleStation": "RUISSEAU DE CERILLY À FLACY",
+        "codeStation": "03044490"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.53640122036871,
+        "coordY": 48.232177556331415,
+        "libelleStation": "LA VANNE A MOLINONS 1",
+        "codeStation": "03044580"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.5347873939698755,
+        "coordY": 48.24595656857469,
+        "libelleStation": "L'ALAIN A MOLINONS 1",
+        "codeStation": "03044690"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.7815374973775215,
+        "coordY": 48.45798306618479,
+        "libelleStation": "LE RU DE LA VALLEE JAVOT A FONTAINE-LE-PORT 1",
+        "codeStation": "03046200"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4794444982665484,
+        "coordY": 48.386994815966176,
+        "libelleStation": "L'ÉCOLE A ONCY-SUR-ECOLE 1",
+        "codeStation": "03047445"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.532810067719741,
+        "coordY": 48.52864902510496,
+        "libelleStation": "LE RU D'AUVERNAUX A SAINT FARGEAU-PONTHIERRY 1",
+        "codeStation": "03047740"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.5478621228796294,
+        "coordY": 48.53751414017467,
+        "libelleStation": "LA SEINE A SAINT-FARGEAU-PONTHIERRY 1",
+        "codeStation": "03048000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4657770528927854,
+        "coordY": 48.63277793655958,
+        "libelleStation": "LE RUISSEAU DES HAULDRES A ETIOLLES 1",
+        "codeStation": "03050000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.900653918882126,
+        "coordY": 48.55199659045485,
+        "libelleStation": "LE RU D'ANCOEUR A LA CHAPELLE GAUTHIER 1 ",
+        "codeStation": "03051275"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.74099100794326,
+        "coordY": 48.558880551342796,
+        "libelleStation": "LE RU D'ANCOEUIL A MOISENAY 1",
+        "codeStation": "03051500"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.679341232328585,
+        "coordY": 48.550235344952966,
+        "libelleStation": "LE RU DE RUBELLES A MELUN 1",
+        "codeStation": "03051580"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.914761934857615,
+        "coordY": 48.05851004867299,
+        "libelleStation": "LA CLÉRY A SAINT-LOUP-DE-GONOIS 1",
+        "codeStation": "03053310"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.728316798973004,
+        "coordY": 48.18302711017299,
+        "libelleStation": "LE LOING A SOUPPES-SUR-LOING 1",
+        "codeStation": "03054000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.636849706165,
+        "coordY": 48.11056055299363,
+        "libelleStation": "LE FUSAIN A COURTEMPIERRE 1",
+        "codeStation": "03057720"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.1043011530533136,
+        "coordY": 48.1528385668459,
+        "libelleStation": "LE RU DE COLOMBEAU A LA BELLIOLE",
+        "codeStation": "03058150"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.782063273557446,
+        "coordY": 48.29541185783646,
+        "libelleStation": "LE LUNAIN A NONVILLE 1",
+        "codeStation": "03059000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4165828748820015,
+        "coordY": 48.66074678337834,
+        "libelleStation": "LA SEINE A RIS-ORANGIS 1",
+        "codeStation": "03061660"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4155962897195424,
+        "coordY": 48.718668250029275,
+        "libelleStation": "LA SEINE A ABLON-SUR-SEINE 2",
+        "codeStation": "03063000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.433822466063175,
+        "coordY": 48.74773613028202,
+        "libelleStation": "LA SEINE A ORLY 1",
+        "codeStation": "03063650"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.1929745536625393,
+        "coordY": 48.104407282386994,
+        "libelleStation": "LE RUISSEAU DE LA VARENNE A MAREAU AUX BOIS 1",
+        "codeStation": "03064385"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.383236138871621,
+        "coordY": 48.36070049398018,
+        "libelleStation": "L'ESSONNE A BUNO-BONNEVAUX 2",
+        "codeStation": "03066000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.0972698880103464,
+        "coordY": 48.29183618162424,
+        "libelleStation": "LA JUINE A AUTRUY-SUR-JUINE 1",
+        "codeStation": "03068100"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.373279504273947,
+        "coordY": 48.53741478309005,
+        "libelleStation": "L'ESSONNE A BALLANCOURT-SUR-ESSONNE 3",
+        "codeStation": "03069000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.480764386881187,
+        "coordY": 48.608188710923415,
+        "libelleStation": "L'ESSONNE A CORBEIL-ESSONNES 4",
+        "codeStation": "03070440"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.9836394509404127,
+        "coordY": 48.52949824395507,
+        "libelleStation": "LE BRAS LA GIRONDE A DOURDAN 1",
+        "codeStation": "03071015"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.0798171377618693,
+        "coordY": 48.538894375445764,
+        "libelleStation": "L'ORGE A SERMAISE 2",
+        "codeStation": "03071080"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.2622773202878177,
+        "coordY": 48.60021637569462,
+        "libelleStation": "LA BOELLE DE LEUVILLE A SAINT GERMAIN-LES-ARPAJON 1",
+        "codeStation": "03071570"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.2286037903453413,
+        "coordY": 48.64146306220709,
+        "libelleStation": "LA SALEMOUILLE A MARCOUSSIS 3",
+        "codeStation": "03071756"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.231096749700147,
+        "coordY": 48.64084950441376,
+        "libelleStation": "LA SALEMOUILLE A MARCOUSSIS 4",
+        "codeStation": "03071757"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.293624769212496,
+        "coordY": 48.634103367113106,
+        "libelleStation": "L'ORGE A SAINT-MICHEL-SUR-ORGE 2",
+        "codeStation": "03071830"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.3550705037211777,
+        "coordY": 48.67090000976436,
+        "libelleStation": "L'ORGE A SAVIGNY-SUR-ORGE 1",
+        "codeStation": "03073000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.0376078400039863,
+        "coordY": 48.705001583087416,
+        "libelleStation": "L'YVETTE A CHEVREUSE 2",
+        "codeStation": "03076000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.089013491203066,
+        "coordY": 48.70458666379703,
+        "libelleStation": "L'YVETTE A SAINT-REMY-LES-CHEVREUSE 1",
+        "codeStation": "03076220"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.124371574631541,
+        "coordY": 48.70932614469039,
+        "libelleStation": "LA MERANTAISE A GIF SUR YVETTE 3",
+        "codeStation": "03076430"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.1315539906035936,
+        "coordY": 48.7027361489179,
+        "libelleStation": "LA MERANTAISE A GIF-SUR-YVETTE 1",
+        "codeStation": "03076443"
+    },
+
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.3193497368138005,
+        "coordY": 48.684688561667514,
+        "libelleStation": "LE ROUILLON A LONGJUMEAU 1",
+        "codeStation": "03076899"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.0277085080273585,
+        "coordY": 48.730421395974616,
+        "libelleStation": "LE RU DE L'ÉTANG DE BEUVRON A TOUQUIN 1",
+        "codeStation": "03077596"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.9034254510518527,
+        "coordY": 48.650945944952404,
+        "libelleStation": "L'YERRES A COURTOMER 1",
+        "codeStation": "03078110"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.693566076829179,
+        "coordY": 48.65299273231315,
+        "libelleStation": "L'YERRES A SOIGNOLLES-EN-BRIE 1",
+        "codeStation": "03078600"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.621273269204951,
+        "coordY": 48.677502662764276,
+        "libelleStation": "LE RU DU CORNILLOT A BRIE-COMTE-ROBERT 1",
+        "codeStation": "03078832"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.5430709088218872,
+        "coordY": 48.720465672112184,
+        "libelleStation": "LE RÉVEILLON A VILLECRESNES 2",
+        "codeStation": "03079622"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4645306366214537,
+        "coordY": 48.710829763804156,
+        "libelleStation": "L'YERRES A CROSNE 2",
+        "codeStation": "03079850"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.410053858393462,
+        "coordY": 48.814653806865365,
+        "libelleStation": "LA SEINE A ALFORTVILLE 3",
+        "codeStation": "03080660"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.3815423651905463,
+        "coordY": 48.83258716372681,
+        "libelleStation": "LA SEINE A PARIS-12E--ARRONDISSEMENT 1",
+        "codeStation": "03081000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.229494609256609,
+        "coordY": 48.86670775533286,
+        "libelleStation": "LA SEINE A SURESNES 2",
+        "codeStation": "03082000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.310467069698256,
+        "coordY": 48.91288012713415,
+        "libelleStation": "LA SEINE A CLICHY 1",
+        "codeStation": "03082560"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.288865251343243,
+        "coordY": 49.01527783742147,
+        "libelleStation": "LE RU D'ENGHIEN A MONTLIGNON 1",
+        "codeStation": "03083125"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.220389022364487,
+        "coordY": 48.92040201826379,
+        "libelleStation": "LA SEINE A COLOMBES 2",
+        "codeStation": "03083450"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.157759113463812,
+        "coordY": 48.944448349196875,
+        "libelleStation": "LA SEINE A MAISONS-LAFFITTE 1",
+        "codeStation": "03084470"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.082900234734093,
+        "coordY": 48.988638724480275,
+        "libelleStation": "LA SEINE A CONFLANS-SAINTE-HONORINE 1",
+        "codeStation": "03085000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.7973339541157554,
+        "coordY": 49.081358449520685,
+        "libelleStation": "LA MARNE A REUIL 1",
+        "codeStation": "03105500"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.693273104734236,
+        "coordY": 49.16454777260618,
+        "libelleStation": "LE RU LA SEMOIGNE A VILLER-AGRON-AGUISY 1",
+        "codeStation": "03105865"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.6791258182962125,
+        "coordY": 49.11943501539162,
+        "libelleStation": "LA SEMOIGNE A PASSY-GRIGNY 1",
+        "codeStation": "03105932"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.674500487491022,
+        "coordY": 49.092432803101865,
+        "libelleStation": "LA SEMOIGNE A VERNEUIL 1",
+        "codeStation": "03105946"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.608090525362704,
+        "coordY": 49.07430036284624,
+        "libelleStation": "LE RU DES HATTIERS  A TRELOU-SUR-MARNE 1",
+        "codeStation": "03106204"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.3689827835003823,
+        "coordY": 49.000064900458,
+        "libelleStation": "LA MARNE A AZY-SUR-MARNE 1",
+        "codeStation": "03108098"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.5271210189499627,
+        "coordY": 49.19274427582588,
+        "libelleStation": "L'OURCQ A FERE-EN-TARDENOIS 1",
+        "codeStation": "03108290"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.189724067561589,
+        "coordY": 49.0166047722601,
+        "libelleStation": "LE RU DE MONTREUIL-AUX-LIONS A MONTREUIL-AUX-LIONS 1",
+        "codeStation": "03108850"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.1246013264628036,
+        "coordY": 48.944716517671836,
+        "libelleStation": "LA MARNE A LA FERTE-SOUS-JOUARRE 1",
+        "codeStation": "03109000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.9045657283334494,
+        "coordY": 48.93374541379257,
+        "libelleStation": "LE RU DES CYGNES A NANTEUIL-LES-MEAUX 1",
+        "codeStation": "03109935"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4196297902664172,
+        "coordY": 48.81689515569205,
+        "libelleStation": "LA MARNE A CHARENTON-LE-PONT 2",
+        "codeStation": "03112480"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.5988743374686103,
+        "coordY": 49.00034283609305,
+        "libelleStation": "LE SURMELIN A BAULNE-EN-BRIE 2",
+        "codeStation": "03112665"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.569816931666996,
+        "coordY": 49.00892800873376,
+        "libelleStation": "LE SURMELIN A CELLES-LES-CONDE 3",
+        "codeStation": "03112710"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.552461663998249,
+        "coordY": 48.95280664459681,
+        "libelleStation": "LA DHUYS A PARGNY-LA-DHUYS 1",
+        "codeStation": "03112740"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.518891695643478,
+        "coordY": 49.049209163200175,
+        "libelleStation": "LE SURMELIN A CREZANCY 1",
+        "codeStation": "03113000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.515929282785281,
+        "coordY": 49.05945452707295,
+        "libelleStation": "LE SURMELIN A MEZY-MOULINS 1",
+        "codeStation": "03113040"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.5243479132828988,
+        "coordY": 48.8726567234237,
+        "libelleStation": "LE RU DES ÉGREMONTS A MONTMIRAIL 1",
+        "codeStation": "03113490"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2293984571970578,
+        "coordY": 48.90241300409376,
+        "libelleStation": "LE RU DE LA FONDERIE A ORLY-SUR-MORIN 1",
+        "codeStation": "03113895"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.151645698449254,
+        "coordY": 48.930612000699256,
+        "libelleStation": "LE PETIT MORIN A SAINT-CYR-SUR-MORIN 2",
+        "codeStation": "03114000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.1512835507145964,
+        "coordY": 48.9327976624425,
+        "libelleStation": "LE PETIT MORIN A JOUARRE 2",
+        "codeStation": "03114005"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.589215737317583,
+        "coordY": 49.16726296665825,
+        "libelleStation": "LE RU DE COUPE A CIERGES 1",
+        "codeStation": "03114123"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.5808803339733557,
+        "coordY": 49.16820892765005,
+        "libelleStation": "LE RU DE COUPE A CIERGES 2",
+        "codeStation": "03114125"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.4745563740918257,
+        "coordY": 49.212188577696224,
+        "libelleStation": "LE RU VACHET A SAPONAY 1",
+        "codeStation": "03114386"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.4071806942034133,
+        "coordY": 49.19007166767261,
+        "libelleStation": "L'ORDRIMOUILLE A NANTEUIL-NOTRE-DAME 1",
+        "codeStation": "03114690"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.383879570120798,
+        "coordY": 49.18314502907896,
+        "libelleStation": "LE RU GARNIER A ARMENTIERES-SUR-OURCQ 1",
+        "codeStation": "03114735"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.268914167218603,
+        "coordY": 49.187169151207684,
+        "libelleStation": "L'OURCQ A VICHEL-NANTEUIL 1",
+        "codeStation": "03115000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.1650720071925207,
+        "coordY": 49.19614876542445,
+        "libelleStation": "LA SAVIÈRES A TROESNES 1",
+        "codeStation": "03115460"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.1072741438831275,
+        "coordY": 49.14851040179424,
+        "libelleStation": "LE RU D'ALLAN A MAROLLES 1",
+        "codeStation": "03115616"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.9552181610195647,
+        "coordY": 49.154852350469575,
+        "libelleStation": "LA GRIVETTE A BETZ 2",
+        "codeStation": "03115690"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.302753373415656,
+        "coordY": 49.08666059760005,
+        "libelleStation": "LE VINGT-MUIDS A BELLEAU 2",
+        "codeStation": "03115760"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.1685147072888182,
+        "coordY": 49.09907086483573,
+        "libelleStation": "LE CLIGNON A BRUMETZ 1",
+        "codeStation": "03115816"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.0321144267356606,
+        "coordY": 49.08556295117133,
+        "libelleStation": "LA GERGOGNE A MAY-EN-MULTIEN 1",
+        "codeStation": "03115955"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.4920481313311056,
+        "coordY": 48.78789989806727,
+        "libelleStation": "LE RU DE BONNEVAL A TREFOLS 1",
+        "codeStation": "03116600"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.444805842279282,
+        "coordY": 48.78299407664471,
+        "libelleStation": "LE GRAND MORIN A VILLENEUVE-LA-LIONNE 1",
+        "codeStation": "03116720"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.4315260898881297,
+        "coordY": 48.78011974296102,
+        "libelleStation": "LE GRAND MORIN A MEILLERAY 2 ",
+        "codeStation": "03116722"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2897116538463194,
+        "coordY": 48.78840839173846,
+        "libelleStation": "LE GRAND MORIN A LA FERTE-GAUCHER 2",
+        "codeStation": "03117275"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2368694932667856,
+        "coordY": 48.80555893518137,
+        "libelleStation": "LE GRAND MORIN A SAINT-REMY-LA-VANNE 2",
+        "codeStation": "03117308"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.185978692531763,
+        "coordY": 48.810550466489964,
+        "libelleStation": "LE RU DE RABOIREAU A CHAUFFRY 1",
+        "codeStation": "03117565"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.1105739071695475,
+        "coordY": 48.82184742258676,
+        "libelleStation": "L'ORGEVAL A COULOMMIERS 2",
+        "codeStation": "03117800"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.903299343100501,
+        "coordY": 48.82933553411237,
+        "libelleStation": "LE GRAND MORIN A TIGEAUX 1",
+        "codeStation": "03118300"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.867186176781445,
+        "coordY": 48.87821513955714,
+        "libelleStation": "LE RU DU MESNIL A COUILLY-PONT-AUX-DAMES 1",
+        "codeStation": "03118890"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.2294810581422837,
+        "coordY": 48.74596269461969,
+        "libelleStation": "LA BIÈVRE A VERRIERES-LE-BUISSON 1",
+        "codeStation": "03122008"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.0388350439971075,
+        "coordY": 48.9367818903955,
+        "libelleStation": "LA SEINE A POISSY 1",
+        "codeStation": "03125000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.001149396216619,
+        "coordY": 48.97848948780391,
+        "libelleStation": "LA SEINE A TRIEL-SUR-SEINE 1",
+        "codeStation": "03125500"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.9248784188947283,
+        "coordY": 48.964430404774305,
+        "libelleStation": "LE RUISSEAU D'ORGEVAL A CHAPET 1",
+        "codeStation": "03125925"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.9072265544993787,
+        "coordY": 48.999766343428014,
+        "libelleStation": "LA SEINE A MEULAN 1",
+        "codeStation": "03126000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.7489840525691918,
+        "coordY": 48.94678783495806,
+        "libelleStation": "LE RU DE SENNEVILLE A GUERVILLE 1",
+        "codeStation": "03126704"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.6112288784749749,
+        "coordY": 49.021328188018856,
+        "libelleStation": "LA SEINE A MERICOURT 4",
+        "codeStation": "03127370"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.7014600400068198,
+        "coordY": 49.06409320567615,
+        "libelleStation": "LE RU DE LA VALLÉE DU ROI A VETHEUIL 2",
+        "codeStation": "03127550"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.7098058128668776,
+        "coordY": 49.064731662396746,
+        "libelleStation": "LE RU DE LA VALLÉE DU ROI A VETHEUIL 1",
+        "codeStation": "03127611"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.5719745126272937,
+        "coordY": 49.037038768598606,
+        "libelleStation": "LA SEINE A BONNIERES-SUR-SEINE 1",
+        "codeStation": "03128000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.3992967205513804,
+        "coordY": 49.78055802163639,
+        "libelleStation": "L'OISE A MEZIERES-SUR-OISE 1",
+        "codeStation": "03130490"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2823332129255993,
+        "coordY": 49.62294864531798,
+        "libelleStation": "L'OISE A CONDREN 2",
+        "codeStation": "03131000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.9698970151576414,
+        "coordY": 49.5350243149477,
+        "libelleStation": "L'OISE A CHIRY-OURSCAMPS 1",
+        "codeStation": "03133000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.7284237533228506,
+        "coordY": 49.461826684854564,
+        "libelleStation": "LE RUISSEAU PAYELLE A REMY 1",
+        "codeStation": "03133908"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.852919663868231,
+        "coordY": 49.43981471262424,
+        "libelleStation": "L'ARONDE A CLAIROIX 1",
+        "codeStation": "03133937"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.787097304890063,
+        "coordY": 49.39829908743364,
+        "libelleStation": "L'OISE A COMPIEGNE 1",
+        "codeStation": "03134000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.0440014479185433,
+        "coordY": 49.23661041579619,
+        "libelleStation": "L'AUTOMNE A COYOLLES 1",
+        "codeStation": "03134560"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.6965148438699864,
+        "coordY": 49.279540392208126,
+        "libelleStation": "LE RU DES TAILLANDIERS A DUVY 1",
+        "codeStation": "03134708"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.8500355444383985,
+        "coordY": 49.270605469983444,
+        "libelleStation": "LA RIVIÈRE SAINTE-MARIE A GLAIGNES 1",
+        "codeStation": "03134730"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.7736976962099975,
+        "coordY": 49.307190494428376,
+        "libelleStation": "L'AUTOMNE A SAINTINES 2",
+        "codeStation": "03134800"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.7241669771742067,
+        "coordY": 49.3118248805728,
+        "libelleStation": "L'OISE A VERBERIE 1",
+        "codeStation": "03135000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.689248085674359,
+        "coordY": 49.30890727967334,
+        "libelleStation": "LE RU DE ROUCANNE A RHUIS 1",
+        "codeStation": "03135360"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.636917198899134,
+        "coordY": 49.30566112147856,
+        "libelleStation": "LE RUISSEAU FOSSÉ TRAXIN A PONTPOINT 1",
+        "codeStation": "03135860"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.6041643025603536,
+        "coordY": 49.30289733504213,
+        "libelleStation": "L'OISE A PONT-SAINTE-MAXENCE 2",
+        "codeStation": "03136000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.5173675197750773,
+        "coordY": 49.29987576797478,
+        "libelleStation": "LE RHONY A RIEUX 1",
+        "codeStation": "03136600"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.5178761795057105,
+        "coordY": 49.28072996204349,
+        "libelleStation": "LE RU MACQUART A VERNEUIL-EN-HALATTE 1",
+        "codeStation": "03136840"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.473972282943756,
+        "coordY": 49.261973662787895,
+        "libelleStation": "L'OISE A CREIL 1",
+        "codeStation": "03137000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4230712291838725,
+        "coordY": 49.213553763069996,
+        "libelleStation": "L'OISE A SAINT-LEU-D'ESSERENT 1",
+        "codeStation": "03137290"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.285255527318485,
+        "coordY": 49.145447104528294,
+        "libelleStation": "L'OISE A BEAUMONT-SUR-OISE 1",
+        "codeStation": "03138000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.2031827755664315,
+        "coordY": 49.20008232546031,
+        "libelleStation": "L'ESCHES A BORNEL 1",
+        "codeStation": "03138390"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.2258649463885276,
+        "coordY": 49.20446479109682,
+        "libelleStation": "LA GOBETTE A BORNEL 1",
+        "codeStation": "03138410"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.27139137403557,
+        "coordY": 49.14504029518818,
+        "libelleStation": "L'ESCHES A PERSAN 1",
+        "codeStation": "03138485"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.204057120153075,
+        "coordY": 49.084370916613864,
+        "libelleStation": "L'OISE A MERIEL 1",
+        "codeStation": "03138800"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.126990991346213,
+        "coordY": 49.0368704681876,
+        "libelleStation": "LE RU DE LIESSE A SAINT-OUEN-L'AUMONE 1",
+        "codeStation": "03139015"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.985400521314428,
+        "coordY": 49.08749001897753,
+        "libelleStation": "LA VIOSNE A ABLEIGES 1",
+        "codeStation": "03140400"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.6814752606346683,
+        "coordY": 49.55523679709095,
+        "libelleStation": "LE RU DU MARAIS A ATHIES-SOUS-LAON 1",
+        "codeStation": "03141902"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.432713526191425,
+        "coordY": 49.50242317705222,
+        "libelleStation": "LE RU DE BORDET A ANIZY-LE-CHATEAU 1",
+        "codeStation": "03142340"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.3870973029898437,
+        "coordY": 49.492358564963396,
+        "libelleStation": "LE BRAS DE BASSE A ANIZY-LE-CHATEAU 1",
+        "codeStation": "03142424"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.3631885646853616,
+        "coordY": 49.49266623328542,
+        "libelleStation": "L'AILETTE A LANDRICOURT 2",
+        "codeStation": "03142520"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.817611820198743,
+        "coordY": 49.81816847480238,
+        "libelleStation": "LE RU DE BEAUREPAIRE A SAINT-PIERRE-LES-FRANQUEVILLE 1",
+        "codeStation": "03144270"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.74046436159875,
+        "coordY": 49.737425294227734,
+        "libelleStation": "LE VILPION A MARCY-SOUS-MARLE 1",
+        "codeStation": "03144475"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.8786972908079367,
+        "coordY": 49.61718653380875,
+        "libelleStation": "LE POINTY A SAINTE-PREUVE 1",
+        "codeStation": "03144605"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.797783371609712,
+        "coordY": 49.60965173944128,
+        "libelleStation": "LA BUZE A LIESSE-NOTRE-DAME 1",
+        "codeStation": "03144639"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.775033277878889,
+        "coordY": 49.67840438512092,
+        "libelleStation": "LE CORNU A VESLES-ET-CAUMONT 1",
+        "codeStation": "03144665"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.527854050091306,
+        "coordY": 49.70962622751605,
+        "libelleStation": "LE PERON A MESBRECOURT-RICHECOURT 1",
+        "codeStation": "03144945"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.51607055058627,
+        "coordY": 49.68959465214589,
+        "libelleStation": "LE BROYON A REMIES 1",
+        "codeStation": "03145020"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.8796901173178955,
+        "coordY": 49.46461385749014,
+        "libelleStation": "LE RU DE FAYAU A JUVINCOURT-ET-DAMARY 1",
+        "codeStation": "03151139"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.4752107299080217,
+        "coordY": 49.39857783251475,
+        "libelleStation": "L'AISNE A CONDE-SUR-AISNE 1",
+        "codeStation": "03152000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.420875507821405,
+        "coordY": 49.352648799634,
+        "libelleStation": "LE RU PREUX A ACY 1",
+        "codeStation": "03152930"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2613437777464584,
+        "coordY": 49.374525386050095,
+        "libelleStation": "LE VOIDON A MERCIN-ET-VAUX 2",
+        "codeStation": "03153710"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2475646663640627,
+        "coordY": 49.394916383642055,
+        "libelleStation": "LE RUISSEAU DE JUVIGNY A OSLY-COURTIL 1",
+        "codeStation": "03153770"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.188885795037708,
+        "coordY": 49.379966439486985,
+        "libelleStation": "LE RU DE RETZ A AMBLENY 1",
+        "codeStation": "03153950"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.963546364272286,
+        "coordY": 49.375611989002415,
+        "libelleStation": "LE RU DE BERNE A VIEUX-MOULIN 5",
+        "codeStation": "03155727"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.8764701590247,
+        "coordY": 49.43614694831149,
+        "libelleStation": "L'AISNE A CHOISY-AU-BAC 1",
+        "codeStation": "03156000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.9220335443035004,
+        "coordY": 49.278206869857364,
+        "libelleStation": "LA VESLE A CHALONS-SUR-VESLE 1",
+        "codeStation": "03160900"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.479757041119805,
+        "coordY": 49.373580331370164,
+        "libelleStation": "LA VESLE A CHASSEMY 1",
+        "codeStation": "03162000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.280580852975357,
+        "coordY": 49.50354226367084,
+        "libelleStation": "LA BRÈCHE A MONTREUIL-SUR-BRECHE 2",
+        "codeStation": "03162135"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.3570144796062187,
+        "coordY": 49.41499773830455,
+        "libelleStation": "LA BRÈCHE A ETOUY 1",
+        "codeStation": "03162240"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4401284706629065,
+        "coordY": 49.48365763398278,
+        "libelleStation": "L'ARRE A VALESCOURT 1",
+        "codeStation": "03162325"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.422060158885861,
+        "coordY": 49.43836454408909,
+        "libelleStation": "L'ARRE A AVRECHY 3",
+        "codeStation": "03162354"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.414714977461748,
+        "coordY": 49.424467731969976,
+        "libelleStation": "L'ARRE A AIRION 1",
+        "codeStation": "03162365"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4245343702756563,
+        "coordY": 49.384245962977545,
+        "libelleStation": "LE RU DE LA GARDE A CLERMONT 1",
+        "codeStation": "03162430"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.445069818246349,
+        "coordY": 49.37013562321755,
+        "libelleStation": "LA BERONNELLE A BREUIL-LE-SEC 4",
+        "codeStation": "03162552"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.456132232279024,
+        "coordY": 49.33085365782185,
+        "libelleStation": "LA BERONNELLE A LIANCOURT 1",
+        "codeStation": "03162900"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.449166116843808,
+        "coordY": 49.32372055221087,
+        "libelleStation": "LA BRÈCHE A RANTIGNY 1",
+        "codeStation": "03163000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4507525283463103,
+        "coordY": 49.29741563987412,
+        "libelleStation": "LA BRÈCHE A LAIGNEVILLE 1",
+        "codeStation": "03163088"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.7583474807291164,
+        "coordY": 49.58153208169597,
+        "libelleStation": "LE THERAIN A HERICOURT-SUR-THERAIN 2",
+        "codeStation": "03163300"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.8298950822701077,
+        "coordY": 49.54875426810143,
+        "libelleStation": "LE THERAIN A SONGEONS 1",
+        "codeStation": "03163400"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.9558333510944805,
+        "coordY": 49.57874425924441,
+        "libelleStation": "LE RU DE L'HERBOVAL A MARSEILLE-EN-BEAUVAISIS 1",
+        "codeStation": "03163742"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.9821093558411238,
+        "coordY": 49.54662126838679,
+        "libelleStation": "LE PETIT THÉRAIN A ACHY 1",
+        "codeStation": "03163750"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.0011828460451744,
+        "coordY": 49.53394529359264,
+        "libelleStation": "LE RUISSEAU DE L'HERPERIE A SAINT-OMER-EN-CHAUSSEE 1",
+        "codeStation": "03163805"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.9366953674606806,
+        "coordY": 49.43233176318275,
+        "libelleStation": "L'AVELON A LACHAPELLE-AUX-POTS 1",
+        "codeStation": "03164180"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.8741492844687802,
+        "coordY": 49.44877327273746,
+        "libelleStation": "LE RUISSEAU DES RAQUES A BLACOURT 1",
+        "codeStation": "03164184"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.0089839253238897,
+        "coordY": 49.40295804887589,
+        "libelleStation": "LE RU D'AUNEUIL A RAINVILLERS 1",
+        "codeStation": "03164250"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.0391399826574506,
+        "coordY": 49.422689283275076,
+        "libelleStation": "L'AVELON A GOINCOURT 1",
+        "codeStation": "03164285"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.060985027924059,
+        "coordY": 49.45646024639154,
+        "libelleStation": "LE THERAIN A BEAUVAIS 1",
+        "codeStation": "03164330"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.1461473484172418,
+        "coordY": 49.39967110932652,
+        "libelleStation": "LE FOSSÉ D'ORGUEIL A WARLUIS 1",
+        "codeStation": "03164900"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.1876434043031723,
+        "coordY": 49.405952401417466,
+        "libelleStation": "LA LAVERSINES A ROCHY-CONDE 1",
+        "codeStation": "03165011"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.1811502281966506,
+        "coordY": 49.39934677836766,
+        "libelleStation": "LE THERAIN A ROCHY-CONDE 2",
+        "codeStation": "03165020"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.2441610012648567,
+        "coordY": 49.36935621940567,
+        "libelleStation": "LA TRYE A BAILLEUL-SUR-THERAIN 2",
+        "codeStation": "03165200"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.245648784986382,
+        "coordY": 49.355162640241424,
+        "libelleStation": "LE THERAIN A HERMES 1",
+        "codeStation": "03165295"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.3780941556248467,
+        "coordY": 49.261985011918505,
+        "libelleStation": "LE THERAIN A MAYSEL 1",
+        "codeStation": "03166050"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.4512671248241333,
+        "coordY": 49.243811636147704,
+        "libelleStation": "LE THERAIN A MONTATAIRE 2",
+        "codeStation": "03166490"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.1715358690256608,
+        "coordY": 49.12606104889504,
+        "libelleStation": "LE SAUSSERON A NESLES-LA-VALLEE 1",
+        "codeStation": "03167000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.687841157429683,
+        "coordY": 49.10272192610312,
+        "libelleStation": "LA LAUNETTE A VER-SUR-LAUNETTE 1",
+        "codeStation": "03167350"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.612739851974199,
+        "coordY": 49.21707239231317,
+        "libelleStation": "L'AUNETTE A CHAMANT 2",
+        "codeStation": "03167740"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.55356435744399,
+        "coordY": 49.19930064669974,
+        "libelleStation": "LA NONETTE A COURTEUIL 1",
+        "codeStation": "03167820"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.430172608635878,
+        "coordY": 49.195525727168345,
+        "libelleStation": "LA NONETTE A GOUVIEUX 1",
+        "codeStation": "03168035"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.8609791764842813,
+        "coordY": 48.8131569807557,
+        "libelleStation": "LE RUISSEAU DU LIEUTEL A NEAUPHLE-LE-VIEUX 1",
+        "codeStation": "03168690"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.8237406937627763,
+        "coordY": 48.967727805658456,
+        "libelleStation": "LA MAULDRE A EPONE 1",
+        "codeStation": "03170100"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.6716769919429086,
+        "coordY": 48.89960133534633,
+        "libelleStation": "LA FLEXANVILLE A SEPTEUIL 2",
+        "codeStation": "03171770"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.6920403808450897,
+        "coordY": 48.927454965569474,
+        "libelleStation": "LA VAUCOULEURS A VILLETTE 2",
+        "codeStation": "03171880"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.2366564397284112,
+        "coordY": 49.31014410697704,
+        "libelleStation": "LA SEINE A POSES 2",
+        "codeStation": "03174000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.6867269221309982,
+        "coordY": 49.53303395770556,
+        "libelleStation": "LA RIVIÈRE DE MÉSANGUEVILLE A DAMPIERRE-EN-BRAY 2",
+        "codeStation": "03174695"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.7108633843794858,
+        "coordY": 49.40214448562216,
+        "libelleStation": "L'EPTE A BOUCHEVILLIERS 1",
+        "codeStation": "03175000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.8833699349417803,
+        "coordY": 49.26901120354201,
+        "libelleStation": "LA TROËSNE A CHAUMONT-EN-VEXIN 1",
+        "codeStation": "03176308"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.735234081947942,
+        "coordY": 49.27294378639252,
+        "libelleStation": "LA LÉVRIÈRE A NEAUFLES-SAINT-MARTIN 1",
+        "codeStation": "03176945"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.6451225604466082,
+        "coordY": 49.11998032248764,
+        "libelleStation": "L'EPTE A FOURGES 1",
+        "codeStation": "03178000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.3912979450199754,
+        "coordY": 49.49445404737526,
+        "libelleStation": "LE HERON AU HERON 1",
+        "codeStation": "03178660"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.3232727698293019,
+        "coordY": 49.489405914770515,
+        "libelleStation": "LE CREVON A SAINT-AIGNAN-SUR-RY 1",
+        "codeStation": "03178835"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.3252272448367302,
+        "coordY": 49.35351912788845,
+        "libelleStation": "L'ANDELLE A RADEPONT 1",
+        "codeStation": "03180100"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.2949056172187474,
+        "coordY": 49.33754699631313,
+        "libelleStation": "L'ANDELLE A PONT-SAINT-PIERRE 1",
+        "codeStation": "03180406"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.2912363740898019,
+        "coordY": 48.44864649909711,
+        "libelleStation": "L'EURE A SAINT-LUPERCE 1",
+        "codeStation": "03187000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.3805373107645567,
+        "coordY": 48.84331628212544,
+        "libelleStation": "L'EURE A CROTH 2",
+        "codeStation": "03190300"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.2088751478993474,
+        "coordY": 49.11440102361694,
+        "libelleStation": "L'EURE A CAILLY-SUR-EURE 1",
+        "codeStation": "03191700"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.237363811325511,
+        "coordY": 48.65040124961628,
+        "libelleStation": "LA BLAISE A SAINT-ANGE-ET-TORCAY 1",
+        "codeStation": "03193520"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.0106393686277142,
+        "coordY": 48.728570488348595,
+        "libelleStation": "L'AVRE A MONTIGNY-SUR-AVRE 1",
+        "codeStation": "03194620"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.1518693045439845,
+        "coordY": 49.080181101472505,
+        "libelleStation": "L'ITON A NORMANVILLE 1",
+        "codeStation": "03199200"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.1233378204043045,
+        "coordY": 49.130874859438734,
+        "libelleStation": "L'ITON A LA VACHERIE 2",
+        "codeStation": "03199450"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.0369540044062735,
+        "coordY": 49.50839983017048,
+        "libelleStation": "LE CAILLY A LE HOULME 1",
+        "codeStation": "03202250"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.7098306578807467,
+        "coordY": 49.733192296007104,
+        "libelleStation": "LE RUISSEAU DE LA VITARDIERE A HAUDRICOURT 4",
+        "codeStation": "03207226"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.7132678880874919,
+        "coordY": 49.73770574608292,
+        "libelleStation": "LE RUISSEAU DE LA VITARDIÈRE A HAUDRICOURT 1",
+        "codeStation": "03207228"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.7258108438929858,
+        "coordY": 49.833678158980234,
+        "libelleStation": "LA BRESLE A VIEUX-ROUEN-SUR-BRESLE 1",
+        "codeStation": "03207610"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.3787970521882917,
+        "coordY": 49.76006277029682,
+        "libelleStation": "LA BÉTHUNE A MESNIERES-EN-BRAY 1",
+        "codeStation": "03211000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.2927435893894985,
+        "coordY": 49.65289929319108,
+        "libelleStation": "LA VARENNE A SAINT-MARTIN-OSMONVILLE 3",
+        "codeStation": "03212150"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.0942441903582858,
+        "coordY": 49.723945921530884,
+        "libelleStation": "LA SCIE À AUFFAY 1",
+        "codeStation": "03214220"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.1006654141927756,
+        "coordY": 49.7316459417521,
+        "libelleStation": "LA SCIE A HEUGLEVILLE-SUR-SCIE 1",
+        "codeStation": "03214240"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.1237269177800524,
+        "coordY": 49.76534998419675,
+        "libelleStation": "LA SCIE A SAINT-CRESPIN 3",
+        "codeStation": "03214320"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.8194994170742973,
+        "coordY": 49.4003581221839,
+        "libelleStation": "LE CANAL LATÉRAL À L'AISNE A PONTAVERT 1",
+        "codeStation": "03277173"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 3.2727780116376213,
+        "coordY": 49.51946115782067,
+        "libelleStation": "LE CANAL DE L'OISE À L'AISNE A GUNY 2",
+        "codeStation": "03277367"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 2.227297820694886,
+        "coordY": 47.99631331976764,
+        "libelleStation": "OUSSANCE à INGRANNES",
+        "codeStation": "04050100"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.226405716775541,
+        "coordY": 48.316030912666676,
+        "libelleStation": "LOIR à ILLIERS-COMBRAY",
+        "codeStation": "04105550"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.127499749529961,
+        "coordY": 48.205957755159744,
+        "libelleStation": "OZANNE à DAMPIERRE-SOUS-BROU",
+        "codeStation": "04105680"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.4176529615129525,
+        "coordY": 48.15134690068575,
+        "libelleStation": "LOIR à SAINT-MAUR-SUR-LE-LOIR",
+        "codeStation": "04105700"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.3729849151568756,
+        "coordY": 48.110251652669895,
+        "libelleStation": "CONIE à DONNEMAIN-SAINT-MAMES",
+        "codeStation": "04105800"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.2904467384848228,
+        "coordY": 48.06747335724178,
+        "libelleStation": "LOIR à SAINT-DENIS-LES-PONTS - Aval CHATEAUDUN",
+        "codeStation": "04106000"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.168354983246822,
+        "coordY": 48.07327449514922,
+        "libelleStation": "YERRE à SAINT-PELLERIN",
+        "codeStation": "04106065"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.00912572343558,
+        "coordY": 48.18616401635362,
+        "libelleStation": "SAINTE SUZANNE à AUTELS VILLEVILLON",
+        "codeStation": "04610007"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.311466043855663,
+        "coordY": 47.98256388687426,
+        "libelleStation": "L'AIGRE A ROMILLY-SUR-AIGRE",
+        "codeStation": "04610011"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.2846840138464588,
+        "coordY": 47.98239230511369,
+        "libelleStation": "L'AIGRE A ROMILLY-SUR-AIGRE",
+        "codeStation": "04610012"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.0994693577973886,
+        "coordY": 48.109597668528515,
+        "libelleStation": "L'YERRE A ARROU",
+        "codeStation": "04610013"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.1184110482727294,
+        "coordY": 48.1011615118955,
+        "libelleStation": "L'AIGRE A ROMILLY-SUR-AIGRE",
+        "codeStation": "04610015"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.0516084837134974,
+        "coordY": 48.187646844178325,
+        "libelleStation": "LA SONNETTE A UNVERRE",
+        "codeStation": "04610021"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.0672107138695401,
+        "coordY": 48.29714945239358,
+        "libelleStation": "LA THIRONNE A CHASSANT",
+        "codeStation": "04610022"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 0.9822284328475086,
+        "coordY": 48.171935853339534,
+        "libelleStation": "LA SONNETTE A LES AUTELS-VILLEVILLON",
+        "codeStation": "04610024"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.0365803860691825,
+        "coordY": 48.17587683552716,
+        "libelleStation": "LA SONNETTE A UNVERRE",
+        "codeStation": "04610025"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.0432546119332329,
+        "coordY": 48.299356697988216,
+        "libelleStation": "THIRONNE A CHASSANT",
+        "codeStation": "04610032"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.2719303326527391,
+        "coordY": 48.2074302325771,
+        "libelleStation": "L'OZANNE A DANGEAU",
+        "codeStation": "04610033"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 0.9809257487224422,
+        "coordY": 48.185910112398275,
+        "libelleStation": "SAINTE-SUZANNE A LES AUTELS-VILLEVILLON",
+        "codeStation": "04610034"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.026063589581137,
+        "coordY": 48.186997484488096,
+        "libelleStation": "SAINTE-SUZANNE A LES AUTELS-VILLEVILLON",
+        "codeStation": "04610035"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.1165270396943987,
+        "coordY": 48.10010529675052,
+        "libelleStation": "L'YERRE A ARROU",
+        "codeStation": "04611014"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.285879293931226,
+        "coordY": 47.98191466126576,
+        "libelleStation": "L'AIGRE A CLOYES LES TROIS RIVIERES",
+        "codeStation": "04611023"
+    },
+    {
+        "codeEPSG": "4326",
+        "coordX": 1.118251559471544,
+        "coordY": 48.0909157084888,
+        "libelleStation": "L'YERRE A COMMUNE NOUVELLE D'ARROU",
+        "codeStation": "04611028"
+    }
+]

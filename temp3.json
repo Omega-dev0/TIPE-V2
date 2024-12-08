@@ -1,0 +1,4444 @@
+{
+  "Thu Aug 04 2011 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "6648": {
+      "taxon": {
+        "code": "6648",
+        "libelle": "Fragilaria brevistriata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "6658": {
+      "taxon": {
+        "code": "6658",
+        "libelle": "Fragilaria capucina var. vaucheriae"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "6849": {
+      "taxon": {
+        "code": "6849",
+        "libelle": "Ulnaria ulna"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "7076": {
+      "taxon": {
+        "code": "7076",
+        "libelle": "Achnanthidium minutissimum"
+      },
+      "resultat": {
+        "value": "17",
+        "method": "NbrTax"
+      }
+    },
+    "7107": {
+      "taxon": {
+        "code": "7107",
+        "libelle": "Amphora inariensis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "216",
+        "method": "NbrTax"
+      }
+    },
+    "7229": {
+      "taxon": {
+        "code": "7229",
+        "libelle": "Cocconeis placentula var. euglypta"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "7748": {
+      "taxon": {
+        "code": "7748",
+        "libelle": "Gyrosigma attenuatum"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7803": {
+      "taxon": {
+        "code": "7803",
+        "libelle": "Navicula antonii"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "7843": {
+      "taxon": {
+        "code": "7843",
+        "libelle": "Navicula capitatoradiata"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "19",
+        "method": "NbrTax"
+      }
+    },
+    "7948": {
+      "taxon": {
+        "code": "7948",
+        "libelle": "Navicula gregaria"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "24",
+        "method": "NbrTax"
+      }
+    },
+    "8393": {
+      "taxon": {
+        "code": "8393",
+        "libelle": "Planothidium frequentissimum"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "8419": {
+      "taxon": {
+        "code": "8419",
+        "libelle": "Reimeria sinuata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "21",
+        "method": "NbrTax"
+      }
+    },
+    "8491": {
+      "taxon": {
+        "code": "8491",
+        "libelle": "Surirella brebissonii var. brebissonii"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8719": {
+      "taxon": {
+        "code": "8719",
+        "libelle": "Melosira varians"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8735": {
+      "taxon": {
+        "code": "8735",
+        "libelle": "Skeletonema potamos"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8746": {
+      "taxon": {
+        "code": "8746",
+        "libelle": "Stephanodiscus hantzschii"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8820": {
+      "taxon": {
+        "code": "8820",
+        "libelle": "Nitzschia amphibia"
+      },
+      "resultat": {
+        "value": "11",
+        "method": "NbrTax"
+      }
+    },
+    "8891": {
+      "taxon": {
+        "code": "8891",
+        "libelle": "Nitzschia fonticola"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8934": {
+      "taxon": {
+        "code": "8934",
+        "libelle": "Nitzschia inconspicua"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8955": {
+      "taxon": {
+        "code": "8955",
+        "libelle": "Nitzschia linearis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8987": {
+      "taxon": {
+        "code": "8987",
+        "libelle": "Nitzschia palea"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "10372": {
+      "taxon": {
+        "code": "10372",
+        "libelle": "Achnanthidium eutrophilum"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "11786": {
+      "taxon": {
+        "code": "11786",
+        "libelle": "Cocconeis euglyptoides"
+      },
+      "resultat": {
+        "value": "11",
+        "method": "NbrTax"
+      }
+    },
+    "12627": {
+      "taxon": {
+        "code": "12627",
+        "libelle": "Ellerbeckia arenaria"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "13106": {
+      "taxon": {
+        "code": "13106",
+        "libelle": "Encyonema ventricosum"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "13281": {
+      "taxon": {
+        "code": "13281",
+        "libelle": "Eolimna subminuscula"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "14114": {
+      "taxon": {
+        "code": "14114",
+        "libelle": "Gomphonema parvulum var. parvulum f. parvulum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "14132": {
+      "taxon": {
+        "code": "14132",
+        "libelle": "Gomphonema pumilum var. rigidum"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "14458": {
+      "taxon": {
+        "code": "14458",
+        "libelle": "Kolbesia gessneri"
+      },
+      "resultat": {
+        "value": "14",
+        "method": "NbrTax"
+      }
+    },
+    "17937": {
+      "taxon": {
+        "code": "17937",
+        "libelle": "Planothidium lanceolatum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "18821": {
+      "taxon": {
+        "code": "18821",
+        "libelle": "Staurosira venter"
+      },
+      "resultat": {
+        "value": "20",
+        "method": "NbrTax"
+      }
+    },
+    "20686": {
+      "taxon": {
+        "code": "20686",
+        "libelle": "Mayamaea atomus var. permitis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "undefined": {
+      "parametre": {
+        "support": "Eau",
+        "fraction": "Eau brute"
+      },
+      "resultat": {
+        "value": 8.3,
+        "unite": "unité pH"
+      }
+    }
+  },
+  "Fri Jun 22 2012 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "6849": {
+      "taxon": {
+        "code": "6849",
+        "libelle": "Ulnaria ulna"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7076": {
+      "taxon": {
+        "code": "7076",
+        "libelle": "Achnanthidium minutissimum"
+      },
+      "resultat": {
+        "value": "15",
+        "method": "NbrTax"
+      }
+    },
+    "7107": {
+      "taxon": {
+        "code": "7107",
+        "libelle": "Amphora inariensis"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "197",
+        "method": "NbrTax"
+      }
+    },
+    "7226": {
+      "taxon": {
+        "code": "7226",
+        "libelle": "Cocconeis pediculus"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "7229": {
+      "taxon": {
+        "code": "7229",
+        "libelle": "Cocconeis placentula var. euglypta"
+      },
+      "resultat": {
+        "value": "14",
+        "method": "NbrTax"
+      }
+    },
+    "7803": {
+      "taxon": {
+        "code": "7803",
+        "libelle": "Navicula antonii"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "7843": {
+      "taxon": {
+        "code": "7843",
+        "libelle": "Navicula capitatoradiata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "7948": {
+      "taxon": {
+        "code": "7948",
+        "libelle": "Navicula gregaria"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "7995": {
+      "taxon": {
+        "code": "7995",
+        "libelle": "Navicula lanceolata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "20",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8206": {
+      "taxon": {
+        "code": "8206",
+        "libelle": "Navicula veneta"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8393": {
+      "taxon": {
+        "code": "8393",
+        "libelle": "Planothidium frequentissimum"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "8395": {
+      "taxon": {
+        "code": "8395",
+        "libelle": "Platessa conspicua"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "8419": {
+      "taxon": {
+        "code": "8419",
+        "libelle": "Reimeria sinuata"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "17",
+        "method": "NbrTax"
+      }
+    },
+    "8600": {
+      "taxon": {
+        "code": "8600",
+        "libelle": "Cyclostephanos invisitatus"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8775": {
+      "taxon": {
+        "code": "8775",
+        "libelle": "Thalassiosira pseudonana"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8820": {
+      "taxon": {
+        "code": "8820",
+        "libelle": "Nitzschia amphibia"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "8875": {
+      "taxon": {
+        "code": "8875",
+        "libelle": "Nitzschia dissipata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8934": {
+      "taxon": {
+        "code": "8934",
+        "libelle": "Nitzschia inconspicua"
+      },
+      "resultat": {
+        "value": "36",
+        "method": "NbrTax"
+      }
+    },
+    "9034": {
+      "taxon": {
+        "code": "9034",
+        "libelle": "Nitzschia sociabilis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9419": {
+      "taxon": {
+        "code": "9419",
+        "libelle": "Eolimna minima"
+      },
+      "resultat": {
+        "value": "14",
+        "method": "NbrTax"
+      }
+    },
+    "10372": {
+      "taxon": {
+        "code": "10372",
+        "libelle": "Achnanthidium eutrophilum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "10603": {
+      "taxon": {
+        "code": "10603",
+        "libelle": "Achnanthidium lineare"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "11786": {
+      "taxon": {
+        "code": "11786",
+        "libelle": "Cocconeis euglyptoides"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "13151": {
+      "taxon": {
+        "code": "13151",
+        "libelle": "Eolimna minima abnormal form"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "13281": {
+      "taxon": {
+        "code": "13281",
+        "libelle": "Eolimna subminuscula"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "13689": {
+      "taxon": {
+        "code": "13689",
+        "libelle": "Fistulifera saprophila"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "14001": {
+      "taxon": {
+        "code": "14001",
+        "libelle": "Gomphonema minutum"
+      },
+      "resultat": {
+        "value": "10",
+        "method": "NbrTax"
+      }
+    },
+    "14458": {
+      "taxon": {
+        "code": "14458",
+        "libelle": "Kolbesia gessneri"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "14703": {
+      "taxon": {
+        "code": "14703",
+        "libelle": "Mayamaea atomus"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "17401": {
+      "taxon": {
+        "code": "17401",
+        "libelle": "Planothidium frequentissimum abnormal form"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "18123": {
+      "taxon": {
+        "code": "18123",
+        "libelle": "Reimeria uniseriata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "20686": {
+      "taxon": {
+        "code": "20686",
+        "libelle": "Mayamaea atomus var. permitis"
+      },
+      "resultat": {
+        "value": "22",
+        "method": "NbrTax"
+      }
+    },
+    "32031": {
+      "taxon": {
+        "code": "32031",
+        "libelle": "Psammothidium lauenburgianum"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "undefined": {
+      "parametre": {
+        "support": "Eau",
+        "fraction": "Eau brute"
+      },
+      "resultat": {
+        "value": 0.02,
+        "unite": "µg/L"
+      }
+    }
+  },
+  "Thu Jul 11 2013 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "6631": {
+      "taxon": {
+        "code": "6631",
+        "libelle": "Diatoma vulgare"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "6658": {
+      "taxon": {
+        "code": "6658",
+        "libelle": "Fragilaria capucina var. vaucheriae"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "6751": {
+      "taxon": {
+        "code": "6751",
+        "libelle": "Pseudostaurosira brevistriata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "6849": {
+      "taxon": {
+        "code": "6849",
+        "libelle": "Ulnaria ulna"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "7076": {
+      "taxon": {
+        "code": "7076",
+        "libelle": "Achnanthidium minutissimum"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7101": {
+      "taxon": {
+        "code": "7101",
+        "libelle": "Amphora copulata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "7107": {
+      "taxon": {
+        "code": "7107",
+        "libelle": "Amphora inariensis"
+      },
+      "resultat": {
+        "value": "11",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "115",
+        "method": "NbrTax"
+      }
+    },
+    "7226": {
+      "taxon": {
+        "code": "7226",
+        "libelle": "Cocconeis pediculus"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "7229": {
+      "taxon": {
+        "code": "7229",
+        "libelle": "Cocconeis placentula var. euglypta"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "7386": {
+      "taxon": {
+        "code": "7386",
+        "libelle": "Diadesmis contenta"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7588": {
+      "taxon": {
+        "code": "7588",
+        "libelle": "Fallacia subhamulata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7803": {
+      "taxon": {
+        "code": "7803",
+        "libelle": "Navicula antonii"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7843": {
+      "taxon": {
+        "code": "7843",
+        "libelle": "Navicula capitatoradiata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "30",
+        "method": "NbrTax"
+      }
+    },
+    "7948": {
+      "taxon": {
+        "code": "7948",
+        "libelle": "Navicula gregaria"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "7995": {
+      "taxon": {
+        "code": "7995",
+        "libelle": "Navicula lanceolata"
+      },
+      "resultat": {
+        "value": "34",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "12",
+        "method": "NbrTax"
+      }
+    },
+    "8393": {
+      "taxon": {
+        "code": "8393",
+        "libelle": "Planothidium frequentissimum"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8395": {
+      "taxon": {
+        "code": "8395",
+        "libelle": "Platessa conspicua"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "62",
+        "method": "NbrTax"
+      }
+    },
+    "8444": {
+      "taxon": {
+        "code": "8444",
+        "libelle": "Sellaphora pupula"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8491": {
+      "taxon": {
+        "code": "8491",
+        "libelle": "Surirella brebissonii var. brebissonii"
+      },
+      "resultat": {
+        "value": "10",
+        "method": "NbrTax"
+      }
+    },
+    "8656": {
+      "taxon": {
+        "code": "8656",
+        "libelle": "Discostella pseudostelligera"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "8719": {
+      "taxon": {
+        "code": "8719",
+        "libelle": "Melosira varians"
+      },
+      "resultat": {
+        "value": "20",
+        "method": "NbrTax"
+      }
+    },
+    "8748": {
+      "taxon": {
+        "code": "8748",
+        "libelle": "Stephanodiscus hantzschii f. tenuis"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8813": {
+      "taxon": {
+        "code": "8813",
+        "libelle": "Nitzschia acula"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8875": {
+      "taxon": {
+        "code": "8875",
+        "libelle": "Nitzschia dissipata"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8891": {
+      "taxon": {
+        "code": "8891",
+        "libelle": "Nitzschia fonticola"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8914": {
+      "taxon": {
+        "code": "8914",
+        "libelle": "Nitzschia gracilis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8987": {
+      "taxon": {
+        "code": "8987",
+        "libelle": "Nitzschia palea"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "9016": {
+      "taxon": {
+        "code": "9016",
+        "libelle": "Nitzschia recta"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9081": {
+      "taxon": {
+        "code": "9081",
+        "libelle": "Tryblionella apiculata"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "9087": {
+      "taxon": {
+        "code": "9087",
+        "libelle": "Tryblionella hungarica"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9088": {
+      "taxon": {
+        "code": "9088",
+        "libelle": "Tryblionella levidensis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9361": {
+      "taxon": {
+        "code": "9361",
+        "libelle": "Cocconeis"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "9419": {
+      "taxon": {
+        "code": "9419",
+        "libelle": "Eolimna minima"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "13147": {
+      "taxon": {
+        "code": "13147",
+        "libelle": "Eolimna comperei"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "13281": {
+      "taxon": {
+        "code": "13281",
+        "libelle": "Eolimna subminuscula"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "14104": {
+      "taxon": {
+        "code": "14104",
+        "libelle": "Gyrosigma sciotense"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "14458": {
+      "taxon": {
+        "code": "14458",
+        "libelle": "Kolbesia gessneri"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "14500": {
+      "taxon": {
+        "code": "14500",
+        "libelle": "Lemnicola hungarica"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "18123": {
+      "taxon": {
+        "code": "18123",
+        "libelle": "Reimeria uniseriata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "18821": {
+      "taxon": {
+        "code": "18821",
+        "libelle": "Staurosira venter"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "32463": {
+      "taxon": {
+        "code": "32463",
+        "libelle": "Karayevia clevei"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "undefined": {
+      "parametre": {
+        "support": "Eau",
+        "fraction": "Eau brute"
+      },
+      "resultat": {
+        "value": 0.03,
+        "unite": "µg/L"
+      }
+    }
+  },
+  "Tue Aug 05 2014 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "6648": {
+      "taxon": {
+        "code": "6648",
+        "libelle": "Fragilaria brevistriata"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "7101": {
+      "taxon": {
+        "code": "7101",
+        "libelle": "Amphora copulata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7107": {
+      "taxon": {
+        "code": "7107",
+        "libelle": "Amphora inariensis"
+      },
+      "resultat": {
+        "value": "18",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "260",
+        "method": "NbrTax"
+      }
+    },
+    "7171": {
+      "taxon": {
+        "code": "7171",
+        "libelle": "Caloneis bacillum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "7226": {
+      "taxon": {
+        "code": "7226",
+        "libelle": "Cocconeis pediculus"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "7229": {
+      "taxon": {
+        "code": "7229",
+        "libelle": "Cocconeis placentula var. euglypta"
+      },
+      "resultat": {
+        "value": "10",
+        "method": "NbrTax"
+      }
+    },
+    "7803": {
+      "taxon": {
+        "code": "7803",
+        "libelle": "Navicula antonii"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7843": {
+      "taxon": {
+        "code": "7843",
+        "libelle": "Navicula capitatoradiata"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "24",
+        "method": "NbrTax"
+      }
+    },
+    "7917": {
+      "taxon": {
+        "code": "7917",
+        "libelle": "Navicula erifuga"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "15",
+        "method": "NbrTax"
+      }
+    },
+    "8179": {
+      "taxon": {
+        "code": "8179",
+        "libelle": "Navicula symmetrica"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8206": {
+      "taxon": {
+        "code": "8206",
+        "libelle": "Navicula veneta"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8395": {
+      "taxon": {
+        "code": "8395",
+        "libelle": "Platessa conspicua"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "8603": {
+      "taxon": {
+        "code": "8603",
+        "libelle": "Cyclotella atomus"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8633": {
+      "taxon": {
+        "code": "8633",
+        "libelle": "Cyclotella meneghiniana"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8719": {
+      "taxon": {
+        "code": "8719",
+        "libelle": "Melosira varians"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8820": {
+      "taxon": {
+        "code": "8820",
+        "libelle": "Nitzschia amphibia"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8875": {
+      "taxon": {
+        "code": "8875",
+        "libelle": "Nitzschia dissipata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8891": {
+      "taxon": {
+        "code": "8891",
+        "libelle": "Nitzschia fonticola"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8934": {
+      "taxon": {
+        "code": "8934",
+        "libelle": "Nitzschia inconspicua"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8987": {
+      "taxon": {
+        "code": "8987",
+        "libelle": "Nitzschia palea"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "9034": {
+      "taxon": {
+        "code": "9034",
+        "libelle": "Nitzschia sociabilis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9049": {
+      "taxon": {
+        "code": "9049",
+        "libelle": "Nitzschia supralitorea"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9419": {
+      "taxon": {
+        "code": "9419",
+        "libelle": "Eolimna minima"
+      },
+      "resultat": {
+        "value": "12",
+        "method": "NbrTax"
+      }
+    },
+    "10878": {
+      "taxon": {
+        "code": "10878",
+        "libelle": "Achnanthes fugei"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "13281": {
+      "taxon": {
+        "code": "13281",
+        "libelle": "Eolimna subminuscula"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "13578": {
+      "taxon": {
+        "code": "13578",
+        "libelle": "Fallacia lenzii"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "14458": {
+      "taxon": {
+        "code": "14458",
+        "libelle": "Kolbesia gessneri"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "14703": {
+      "taxon": {
+        "code": "14703",
+        "libelle": "Mayamaea atomus"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "18123": {
+      "taxon": {
+        "code": "18123",
+        "libelle": "Reimeria uniseriata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "20686": {
+      "taxon": {
+        "code": "20686",
+        "libelle": "Mayamaea atomus var. permitis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "32031": {
+      "taxon": {
+        "code": "32031",
+        "libelle": "Psammothidium lauenburgianum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "32463": {
+      "taxon": {
+        "code": "32463",
+        "libelle": "Karayevia clevei"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "undefined": {
+      "parametre": {
+        "support": "Eau",
+        "fraction": "Eau brute"
+      },
+      "resultat": {
+        "value": 0.02,
+        "unite": "µg/L"
+      }
+    }
+  },
+  "Tue Jun 23 2015 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "7019": {
+      "taxon": {
+        "code": "7019",
+        "libelle": "Achnanthes ploenensis var. gessneri"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "7076": {
+      "taxon": {
+        "code": "7076",
+        "libelle": "Achnanthidium minutissimum"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "82",
+        "method": "NbrTax"
+      }
+    },
+    "7226": {
+      "taxon": {
+        "code": "7226",
+        "libelle": "Cocconeis pediculus"
+      },
+      "resultat": {
+        "value": "12",
+        "method": "NbrTax"
+      }
+    },
+    "7748": {
+      "taxon": {
+        "code": "7748",
+        "libelle": "Gyrosigma attenuatum"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7803": {
+      "taxon": {
+        "code": "7803",
+        "libelle": "Navicula antonii"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "7843": {
+      "taxon": {
+        "code": "7843",
+        "libelle": "Navicula capitatoradiata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7851": {
+      "taxon": {
+        "code": "7851",
+        "libelle": "Navicula cincta"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "21",
+        "method": "NbrTax"
+      }
+    },
+    "7948": {
+      "taxon": {
+        "code": "7948",
+        "libelle": "Navicula gregaria"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "7995": {
+      "taxon": {
+        "code": "7995",
+        "libelle": "Navicula lanceolata"
+      },
+      "resultat": {
+        "value": "28",
+        "method": "NbrTax"
+      }
+    },
+    "8111": {
+      "taxon": {
+        "code": "8111",
+        "libelle": "Navicula recens"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "8192": {
+      "taxon": {
+        "code": "8192",
+        "libelle": "Navicula trivialis var. trivialis"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "8393": {
+      "taxon": {
+        "code": "8393",
+        "libelle": "Planothidium frequentissimum"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "8419": {
+      "taxon": {
+        "code": "8419",
+        "libelle": "Reimeria sinuata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "10",
+        "method": "NbrTax"
+      }
+    },
+    "8444": {
+      "taxon": {
+        "code": "8444",
+        "libelle": "Sellaphora pupula"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8492": {
+      "taxon": {
+        "code": "8492",
+        "libelle": "Surirella brebissonii var. kuetzingii"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8633": {
+      "taxon": {
+        "code": "8633",
+        "libelle": "Cyclotella meneghiniana"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "8656": {
+      "taxon": {
+        "code": "8656",
+        "libelle": "Discostella pseudostelligera"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8719": {
+      "taxon": {
+        "code": "8719",
+        "libelle": "Melosira varians"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "8845": {
+      "taxon": {
+        "code": "8845",
+        "libelle": "Nitzschia bulnheimiana"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "8875": {
+      "taxon": {
+        "code": "8875",
+        "libelle": "Nitzschia dissipata"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8914": {
+      "taxon": {
+        "code": "8914",
+        "libelle": "Nitzschia gracilis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8987": {
+      "taxon": {
+        "code": "8987",
+        "libelle": "Nitzschia palea"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "8992": {
+      "taxon": {
+        "code": "8992",
+        "libelle": "Nitzschia paleacea"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9016": {
+      "taxon": {
+        "code": "9016",
+        "libelle": "Nitzschia recta"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9029": {
+      "taxon": {
+        "code": "9029",
+        "libelle": "Nitzschia sigmoidea"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9034": {
+      "taxon": {
+        "code": "9034",
+        "libelle": "Nitzschia sociabilis"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "9079": {
+      "taxon": {
+        "code": "9079",
+        "libelle": "Simonsenia delognei"
+      },
+      "resultat": {
+        "value": "69",
+        "method": "NbrTax"
+      }
+    },
+    "9081": {
+      "taxon": {
+        "code": "9081",
+        "libelle": "Tryblionella apiculata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9419": {
+      "taxon": {
+        "code": "9419",
+        "libelle": "Eolimna minima"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "9468": {
+      "taxon": {
+        "code": "9468",
+        "libelle": "Surirella"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "11785": {
+      "taxon": {
+        "code": "11785",
+        "libelle": "Cocconeis euglypta"
+      },
+      "resultat": {
+        "value": "12",
+        "method": "NbrTax"
+      }
+    },
+    "11981": {
+      "taxon": {
+        "code": "11981",
+        "libelle": "Caloneis lancettula"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "12097": {
+      "taxon": {
+        "code": "12097",
+        "libelle": "Cocconeis placentula var. placentula"
+      },
+      "resultat": {
+        "value": "11",
+        "method": "NbrTax"
+      }
+    },
+    "13578": {
+      "taxon": {
+        "code": "13578",
+        "libelle": "Fallacia lenzii"
+      },
+      "resultat": {
+        "value": "11",
+        "method": "NbrTax"
+      }
+    },
+    "13689": {
+      "taxon": {
+        "code": "13689",
+        "libelle": "Fistulifera saprophila"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "14060": {
+      "taxon": {
+        "code": "14060",
+        "libelle": "Gomphonema olivaceum"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "14104": {
+      "taxon": {
+        "code": "14104",
+        "libelle": "Gyrosigma sciotense"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "14114": {
+      "taxon": {
+        "code": "14114",
+        "libelle": "Gomphonema parvulum var. parvulum f. parvulum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "14664": {
+      "taxon": {
+        "code": "14664",
+        "libelle": "Mayamaea permitis"
+      },
+      "resultat": {
+        "value": "13",
+        "method": "NbrTax"
+      }
+    },
+    "16487": {
+      "taxon": {
+        "code": "16487",
+        "libelle": "Nitzschia soratensis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "17937": {
+      "taxon": {
+        "code": "17937",
+        "libelle": "Planothidium lanceolatum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "18123": {
+      "taxon": {
+        "code": "18123",
+        "libelle": "Reimeria uniseriata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "28635": {
+      "taxon": {
+        "code": "28635",
+        "libelle": "Amphora indistincta"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "32031": {
+      "taxon": {
+        "code": "32031",
+        "libelle": "Psammothidium lauenburgianum"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "37468": {
+      "taxon": {
+        "code": "37468",
+        "libelle": "Surirella lacrimula"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "undefined": {
+      "parametre": {
+        "support": "Eau",
+        "fraction": "Eau brute"
+      },
+      "resultat": {
+        "value": 0.0005,
+        "unite": "µg/L"
+      }
+    }
+  },
+  "Wed Jul 20 2016 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "6658": {
+      "taxon": {
+        "code": "6658",
+        "libelle": "Fragilaria capucina var. vaucheriae"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7076": {
+      "taxon": {
+        "code": "7076",
+        "libelle": "Achnanthidium minutissimum"
+      },
+      "resultat": {
+        "value": "35",
+        "method": "NbrTax"
+      }
+    },
+    "7101": {
+      "taxon": {
+        "code": "7101",
+        "libelle": "Amphora copulata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "7107": {
+      "taxon": {
+        "code": "7107",
+        "libelle": "Amphora inariensis"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "132",
+        "method": "NbrTax"
+      }
+    },
+    "7171": {
+      "taxon": {
+        "code": "7171",
+        "libelle": "Caloneis bacillum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "7226": {
+      "taxon": {
+        "code": "7226",
+        "libelle": "Cocconeis pediculus"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "7229": {
+      "taxon": {
+        "code": "7229",
+        "libelle": "Cocconeis placentula var. euglypta"
+      },
+      "resultat": {
+        "value": "12",
+        "method": "NbrTax"
+      }
+    },
+    "7584": {
+      "taxon": {
+        "code": "7584",
+        "libelle": "Fallacia monoculata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7803": {
+      "taxon": {
+        "code": "7803",
+        "libelle": "Navicula antonii"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "25",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8206": {
+      "taxon": {
+        "code": "8206",
+        "libelle": "Navicula veneta"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8393": {
+      "taxon": {
+        "code": "8393",
+        "libelle": "Planothidium frequentissimum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8395": {
+      "taxon": {
+        "code": "8395",
+        "libelle": "Platessa conspicua"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "18",
+        "method": "NbrTax"
+      }
+    },
+    "8820": {
+      "taxon": {
+        "code": "8820",
+        "libelle": "Nitzschia amphibia"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8875": {
+      "taxon": {
+        "code": "8875",
+        "libelle": "Nitzschia dissipata"
+      },
+      "resultat": {
+        "value": "12",
+        "method": "NbrTax"
+      }
+    },
+    "8891": {
+      "taxon": {
+        "code": "8891",
+        "libelle": "Nitzschia fonticola"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "8987": {
+      "taxon": {
+        "code": "8987",
+        "libelle": "Nitzschia palea"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8992": {
+      "taxon": {
+        "code": "8992",
+        "libelle": "Nitzschia paleacea"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "9034": {
+      "taxon": {
+        "code": "9034",
+        "libelle": "Nitzschia sociabilis"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "9079": {
+      "taxon": {
+        "code": "9079",
+        "libelle": "Simonsenia delognei"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "9419": {
+      "taxon": {
+        "code": "9419",
+        "libelle": "Eolimna minima"
+      },
+      "resultat": {
+        "value": "19",
+        "method": "NbrTax"
+      }
+    },
+    "12017": {
+      "taxon": {
+        "code": "12017",
+        "libelle": "Craticula molestiformis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "12097": {
+      "taxon": {
+        "code": "12097",
+        "libelle": "Cocconeis placentula var. placentula"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "13106": {
+      "taxon": {
+        "code": "13106",
+        "libelle": "Encyonema ventricosum"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "13281": {
+      "taxon": {
+        "code": "13281",
+        "libelle": "Eolimna subminuscula"
+      },
+      "resultat": {
+        "value": "25",
+        "method": "NbrTax"
+      }
+    },
+    "13578": {
+      "taxon": {
+        "code": "13578",
+        "libelle": "Fallacia lenzii"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "13689": {
+      "taxon": {
+        "code": "13689",
+        "libelle": "Fistulifera saprophila"
+      },
+      "resultat": {
+        "value": "15",
+        "method": "NbrTax"
+      }
+    },
+    "14114": {
+      "taxon": {
+        "code": "14114",
+        "libelle": "Gomphonema parvulum var. parvulum f. parvulum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "14132": {
+      "taxon": {
+        "code": "14132",
+        "libelle": "Gomphonema pumilum var. rigidum"
+      },
+      "resultat": {
+        "value": "24",
+        "method": "NbrTax"
+      }
+    },
+    "14426": {
+      "taxon": {
+        "code": "14426",
+        "libelle": "Karayevia ploenensis"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "16487": {
+      "taxon": {
+        "code": "16487",
+        "libelle": "Nitzschia soratensis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "17937": {
+      "taxon": {
+        "code": "17937",
+        "libelle": "Planothidium lanceolatum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "20686": {
+      "taxon": {
+        "code": "20686",
+        "libelle": "Mayamaea atomus var. permitis"
+      },
+      "resultat": {
+        "value": "11",
+        "method": "NbrTax"
+      }
+    },
+    "32410": {
+      "taxon": {
+        "code": "32410",
+        "libelle": "Mayamaea atomus var. alcimonica"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "undefined": {
+      "parametre": {
+        "support": "Eau",
+        "fraction": "Eau brute"
+      },
+      "resultat": {
+        "value": 969,
+        "unite": "µS/cm"
+      }
+    }
+  },
+  "Thu Jul 27 2017 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "6631": {
+      "taxon": {
+        "code": "6631",
+        "libelle": "Diatoma vulgare"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "6653": {
+      "taxon": {
+        "code": "6653",
+        "libelle": "Fragilaria capucina var. capitellata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "6752": {
+      "taxon": {
+        "code": "6752",
+        "libelle": "Pseudostaurosira parasitica"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "7076": {
+      "taxon": {
+        "code": "7076",
+        "libelle": "Achnanthidium minutissimum"
+      },
+      "resultat": {
+        "value": "38",
+        "method": "NbrTax"
+      }
+    },
+    "7078": {
+      "taxon": {
+        "code": "7078",
+        "libelle": "Achnanthidium straubianum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "7101": {
+      "taxon": {
+        "code": "7101",
+        "libelle": "Amphora copulata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "85",
+        "method": "NbrTax"
+      }
+    },
+    "7803": {
+      "taxon": {
+        "code": "7803",
+        "libelle": "Navicula antonii"
+      },
+      "resultat": {
+        "value": "13",
+        "method": "NbrTax"
+      }
+    },
+    "7849": {
+      "taxon": {
+        "code": "7849",
+        "libelle": "Navicula caterva"
+      },
+      "resultat": {
+        "value": "10",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "39",
+        "method": "NbrTax"
+      }
+    },
+    "7995": {
+      "taxon": {
+        "code": "7995",
+        "libelle": "Navicula lanceolata"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "25",
+        "method": "NbrTax"
+      }
+    },
+    "8393": {
+      "taxon": {
+        "code": "8393",
+        "libelle": "Planothidium frequentissimum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8395": {
+      "taxon": {
+        "code": "8395",
+        "libelle": "Platessa conspicua"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "15",
+        "method": "NbrTax"
+      }
+    },
+    "8492": {
+      "taxon": {
+        "code": "8492",
+        "libelle": "Surirella brebissonii var. kuetzingii"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8719": {
+      "taxon": {
+        "code": "8719",
+        "libelle": "Melosira varians"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8820": {
+      "taxon": {
+        "code": "8820",
+        "libelle": "Nitzschia amphibia"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "8875": {
+      "taxon": {
+        "code": "8875",
+        "libelle": "Nitzschia dissipata"
+      },
+      "resultat": {
+        "value": "15",
+        "method": "NbrTax"
+      }
+    },
+    "8891": {
+      "taxon": {
+        "code": "8891",
+        "libelle": "Nitzschia fonticola"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8987": {
+      "taxon": {
+        "code": "8987",
+        "libelle": "Nitzschia palea"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "9034": {
+      "taxon": {
+        "code": "9034",
+        "libelle": "Nitzschia sociabilis"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "9081": {
+      "taxon": {
+        "code": "9081",
+        "libelle": "Tryblionella apiculata"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "9419": {
+      "taxon": {
+        "code": "9419",
+        "libelle": "Eolimna minima"
+      },
+      "resultat": {
+        "value": "10",
+        "method": "NbrTax"
+      }
+    },
+    "10372": {
+      "taxon": {
+        "code": "10372",
+        "libelle": "Achnanthidium eutrophilum"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "10597": {
+      "taxon": {
+        "code": "10597",
+        "libelle": "Achnanthidium pyrenaicum"
+      },
+      "resultat": {
+        "value": "13",
+        "method": "NbrTax"
+      }
+    },
+    "10854": {
+      "taxon": {
+        "code": "10854",
+        "libelle": "Achnanthidium subatomus"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "11785": {
+      "taxon": {
+        "code": "11785",
+        "libelle": "Cocconeis euglypta"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "12017": {
+      "taxon": {
+        "code": "12017",
+        "libelle": "Craticula molestiformis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "12097": {
+      "taxon": {
+        "code": "12097",
+        "libelle": "Cocconeis placentula var. placentula"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "13106": {
+      "taxon": {
+        "code": "13106",
+        "libelle": "Encyonema ventricosum"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "13281": {
+      "taxon": {
+        "code": "13281",
+        "libelle": "Eolimna subminuscula"
+      },
+      "resultat": {
+        "value": "13",
+        "method": "NbrTax"
+      }
+    },
+    "13689": {
+      "taxon": {
+        "code": "13689",
+        "libelle": "Fistulifera saprophila"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "13999": {
+      "taxon": {
+        "code": "13999",
+        "libelle": "Gomphonema micropus var. micropus"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "14114": {
+      "taxon": {
+        "code": "14114",
+        "libelle": "Gomphonema parvulum var. parvulum f. parvulum"
+      },
+      "resultat": {
+        "value": "16",
+        "method": "NbrTax"
+      }
+    },
+    "14427": {
+      "taxon": {
+        "code": "14427",
+        "libelle": "Karayevia suchlandtii"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "14664": {
+      "taxon": {
+        "code": "14664",
+        "libelle": "Mayamaea permitis"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "17863": {
+      "taxon": {
+        "code": "17863",
+        "libelle": "Psammothidium strenzkei"
+      },
+      "resultat": {
+        "value": "11",
+        "method": "NbrTax"
+      }
+    },
+    "17937": {
+      "taxon": {
+        "code": "17937",
+        "libelle": "Planothidium lanceolatum"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "18821": {
+      "taxon": {
+        "code": "18821",
+        "libelle": "Staurosira venter"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "28986": {
+      "taxon": {
+        "code": "28986",
+        "libelle": "Staurosira mutabilis"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "32680": {
+      "taxon": {
+        "code": "32680",
+        "libelle": "Karayevia ploenensis var. gessneri"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "37468": {
+      "taxon": {
+        "code": "37468",
+        "libelle": "Surirella lacrimula"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "undefined": {
+      "parametre": {
+        "support": "Eau",
+        "fraction": "Phase aqueuse de l'eau (filtrée, centrifugée...)"
+      },
+      "resultat": {
+        "value": 3.5,
+        "unite": "mg(C)/L"
+      }
+    }
+  },
+  "Wed Jul 18 2018 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "7076": {
+      "taxon": {
+        "code": "7076",
+        "libelle": "Achnanthidium minutissimum"
+      },
+      "resultat": {
+        "value": "20",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "96",
+        "method": "NbrTax"
+      }
+    },
+    "7226": {
+      "taxon": {
+        "code": "7226",
+        "libelle": "Cocconeis pediculus"
+      },
+      "resultat": {
+        "value": "11",
+        "method": "NbrTax"
+      }
+    },
+    "7803": {
+      "taxon": {
+        "code": "7803",
+        "libelle": "Navicula antonii"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "26",
+        "method": "NbrTax"
+      }
+    },
+    "7948": {
+      "taxon": {
+        "code": "7948",
+        "libelle": "Navicula gregaria"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "35",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "27",
+        "method": "NbrTax"
+      }
+    },
+    "8192": {
+      "taxon": {
+        "code": "8192",
+        "libelle": "Navicula trivialis var. trivialis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8393": {
+      "taxon": {
+        "code": "8393",
+        "libelle": "Planothidium frequentissimum"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "8419": {
+      "taxon": {
+        "code": "8419",
+        "libelle": "Reimeria sinuata"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "22",
+        "method": "NbrTax"
+      }
+    },
+    "8633": {
+      "taxon": {
+        "code": "8633",
+        "libelle": "Cyclotella meneghiniana"
+      },
+      "resultat": {
+        "value": "14",
+        "method": "NbrTax"
+      }
+    },
+    "8875": {
+      "taxon": {
+        "code": "8875",
+        "libelle": "Nitzschia dissipata"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8891": {
+      "taxon": {
+        "code": "8891",
+        "libelle": "Nitzschia fonticola"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8987": {
+      "taxon": {
+        "code": "8987",
+        "libelle": "Nitzschia palea"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "10372": {
+      "taxon": {
+        "code": "10372",
+        "libelle": "Achnanthidium eutrophilum"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "10920": {
+      "taxon": {
+        "code": "10920",
+        "libelle": "Adlafia lange-bertalotii"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "11432": {
+      "taxon": {
+        "code": "11432",
+        "libelle": "Cymbella affinis var. affinis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "11785": {
+      "taxon": {
+        "code": "11785",
+        "libelle": "Cocconeis euglypta"
+      },
+      "resultat": {
+        "value": "31",
+        "method": "NbrTax"
+      }
+    },
+    "11981": {
+      "taxon": {
+        "code": "11981",
+        "libelle": "Caloneis lancettula"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "12097": {
+      "taxon": {
+        "code": "12097",
+        "libelle": "Cocconeis placentula var. placentula"
+      },
+      "resultat": {
+        "value": "20",
+        "method": "NbrTax"
+      }
+    },
+    "13106": {
+      "taxon": {
+        "code": "13106",
+        "libelle": "Encyonema ventricosum"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "13281": {
+      "taxon": {
+        "code": "13281",
+        "libelle": "Eolimna subminuscula"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "14001": {
+      "taxon": {
+        "code": "14001",
+        "libelle": "Gomphonema minutum"
+      },
+      "resultat": {
+        "value": "25",
+        "method": "NbrTax"
+      }
+    },
+    "14114": {
+      "taxon": {
+        "code": "14114",
+        "libelle": "Gomphonema parvulum var. parvulum f. parvulum"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "14426": {
+      "taxon": {
+        "code": "14426",
+        "libelle": "Karayevia ploenensis"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "14664": {
+      "taxon": {
+        "code": "14664",
+        "libelle": "Mayamaea permitis"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "17937": {
+      "taxon": {
+        "code": "17937",
+        "libelle": "Planothidium lanceolatum"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "18821": {
+      "taxon": {
+        "code": "18821",
+        "libelle": "Staurosira venter"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "28635": {
+      "taxon": {
+        "code": "28635",
+        "libelle": "Amphora indistincta"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "32463": {
+      "taxon": {
+        "code": "32463",
+        "libelle": "Karayevia clevei"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "37468": {
+      "taxon": {
+        "code": "37468",
+        "libelle": "Surirella lacrimula"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "42884": {
+      "taxon": {
+        "code": "42884",
+        "libelle": "Tryblionella kuetzingii"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "43263": {
+      "taxon": {
+        "code": "43263",
+        "libelle": "Sellaphora atomoides"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    }
+  },
+  "Thu Jul 18 2019 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "6849": {
+      "taxon": {
+        "code": "6849",
+        "libelle": "Ulnaria ulna"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "7076": {
+      "taxon": {
+        "code": "7076",
+        "libelle": "Achnanthidium minutissimum"
+      },
+      "resultat": {
+        "value": "59",
+        "method": "NbrTax"
+      }
+    },
+    "7111": {
+      "taxon": {
+        "code": "7111",
+        "libelle": "Amphora ovalis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "106",
+        "method": "NbrTax"
+      }
+    },
+    "7226": {
+      "taxon": {
+        "code": "7226",
+        "libelle": "Cocconeis pediculus"
+      },
+      "resultat": {
+        "value": "10",
+        "method": "NbrTax"
+      }
+    },
+    "7803": {
+      "taxon": {
+        "code": "7803",
+        "libelle": "Navicula antonii"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "7843": {
+      "taxon": {
+        "code": "7843",
+        "libelle": "Navicula capitatoradiata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "36",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "26",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "19",
+        "method": "NbrTax"
+      }
+    },
+    "8395": {
+      "taxon": {
+        "code": "8395",
+        "libelle": "Platessa conspicua"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "17",
+        "method": "NbrTax"
+      }
+    },
+    "8491": {
+      "taxon": {
+        "code": "8491",
+        "libelle": "Surirella brebissonii var. brebissonii"
+      },
+      "resultat": {
+        "value": "12",
+        "method": "NbrTax"
+      }
+    },
+    "8492": {
+      "taxon": {
+        "code": "8492",
+        "libelle": "Surirella brebissonii var. kuetzingii"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8633": {
+      "taxon": {
+        "code": "8633",
+        "libelle": "Cyclotella meneghiniana"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "8719": {
+      "taxon": {
+        "code": "8719",
+        "libelle": "Melosira varians"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8820": {
+      "taxon": {
+        "code": "8820",
+        "libelle": "Nitzschia amphibia"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8875": {
+      "taxon": {
+        "code": "8875",
+        "libelle": "Nitzschia dissipata"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "8891": {
+      "taxon": {
+        "code": "8891",
+        "libelle": "Nitzschia fonticola"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8987": {
+      "taxon": {
+        "code": "8987",
+        "libelle": "Nitzschia palea"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "8992": {
+      "taxon": {
+        "code": "8992",
+        "libelle": "Nitzschia paleacea"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "9034": {
+      "taxon": {
+        "code": "9034",
+        "libelle": "Nitzschia sociabilis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9446": {
+      "taxon": {
+        "code": "9446",
+        "libelle": "Craticula"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "10372": {
+      "taxon": {
+        "code": "10372",
+        "libelle": "Achnanthidium eutrophilum"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "11785": {
+      "taxon": {
+        "code": "11785",
+        "libelle": "Cocconeis euglypta"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "11981": {
+      "taxon": {
+        "code": "11981",
+        "libelle": "Caloneis lancettula"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "12097": {
+      "taxon": {
+        "code": "12097",
+        "libelle": "Cocconeis placentula var. placentula"
+      },
+      "resultat": {
+        "value": "17",
+        "method": "NbrTax"
+      }
+    },
+    "13106": {
+      "taxon": {
+        "code": "13106",
+        "libelle": "Encyonema ventricosum"
+      },
+      "resultat": {
+        "value": "15",
+        "method": "NbrTax"
+      }
+    },
+    "14001": {
+      "taxon": {
+        "code": "14001",
+        "libelle": "Gomphonema minutum"
+      },
+      "resultat": {
+        "value": "23",
+        "method": "NbrTax"
+      }
+    },
+    "14664": {
+      "taxon": {
+        "code": "14664",
+        "libelle": "Mayamaea permitis"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "16487": {
+      "taxon": {
+        "code": "16487",
+        "libelle": "Nitzschia soratensis"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "29057": {
+      "taxon": {
+        "code": "29057",
+        "libelle": "Ulnaria danica"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "41890": {
+      "taxon": {
+        "code": "41890",
+        "libelle": "Craticula subminuscula"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "43146": {
+      "taxon": {
+        "code": "43146",
+        "libelle": "Sellaphora nigri"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "undefined": {
+      "parametre": {
+        "support": "Eau",
+        "fraction": "Eau brute"
+      },
+      "resultat": {
+        "value": 0.02,
+        "unite": "µg/L"
+      }
+    }
+  },
+  "Thu Sep 17 2020 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "7076": {
+      "taxon": {
+        "code": "7076",
+        "libelle": "Achnanthidium minutissimum"
+      },
+      "resultat": {
+        "value": "64",
+        "method": "NbrTax"
+      }
+    },
+    "7111": {
+      "taxon": {
+        "code": "7111",
+        "libelle": "Amphora ovalis"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "148",
+        "method": "NbrTax"
+      }
+    },
+    "7226": {
+      "taxon": {
+        "code": "7226",
+        "libelle": "Cocconeis pediculus"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7443": {
+      "taxon": {
+        "code": "7443",
+        "libelle": "Encyonema silesiacum"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7803": {
+      "taxon": {
+        "code": "7803",
+        "libelle": "Navicula antonii"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "15",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "16",
+        "method": "NbrTax"
+      }
+    },
+    "8393": {
+      "taxon": {
+        "code": "8393",
+        "libelle": "Planothidium frequentissimum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "12",
+        "method": "NbrTax"
+      }
+    },
+    "8492": {
+      "taxon": {
+        "code": "8492",
+        "libelle": "Surirella brebissonii var. kuetzingii"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "8600": {
+      "taxon": {
+        "code": "8600",
+        "libelle": "Cyclostephanos invisitatus"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8633": {
+      "taxon": {
+        "code": "8633",
+        "libelle": "Cyclotella meneghiniana"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8719": {
+      "taxon": {
+        "code": "8719",
+        "libelle": "Melosira varians"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8820": {
+      "taxon": {
+        "code": "8820",
+        "libelle": "Nitzschia amphibia"
+      },
+      "resultat": {
+        "value": "17",
+        "method": "NbrTax"
+      }
+    },
+    "8845": {
+      "taxon": {
+        "code": "8845",
+        "libelle": "Nitzschia bulnheimiana"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8875": {
+      "taxon": {
+        "code": "8875",
+        "libelle": "Nitzschia dissipata"
+      },
+      "resultat": {
+        "value": "31",
+        "method": "NbrTax"
+      }
+    },
+    "8891": {
+      "taxon": {
+        "code": "8891",
+        "libelle": "Nitzschia fonticola"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "8923": {
+      "taxon": {
+        "code": "8923",
+        "libelle": "Nitzschia heufleriana"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8934": {
+      "taxon": {
+        "code": "8934",
+        "libelle": "Nitzschia inconspicua"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8987": {
+      "taxon": {
+        "code": "8987",
+        "libelle": "Nitzschia palea"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "9014": {
+      "taxon": {
+        "code": "9014",
+        "libelle": "Nitzschia pusilla"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "9029": {
+      "taxon": {
+        "code": "9029",
+        "libelle": "Nitzschia sigmoidea"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "9079": {
+      "taxon": {
+        "code": "9079",
+        "libelle": "Simonsenia delognei"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "10372": {
+      "taxon": {
+        "code": "10372",
+        "libelle": "Achnanthidium eutrophilum"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "11785": {
+      "taxon": {
+        "code": "11785",
+        "libelle": "Cocconeis euglypta"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "11835": {
+      "taxon": {
+        "code": "11835",
+        "libelle": "Diploneis separanda"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "11981": {
+      "taxon": {
+        "code": "11981",
+        "libelle": "Caloneis lancettula"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "12017": {
+      "taxon": {
+        "code": "12017",
+        "libelle": "Craticula molestiformis"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "12097": {
+      "taxon": {
+        "code": "12097",
+        "libelle": "Cocconeis placentula var. placentula"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "13106": {
+      "taxon": {
+        "code": "13106",
+        "libelle": "Encyonema ventricosum"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "14001": {
+      "taxon": {
+        "code": "14001",
+        "libelle": "Gomphonema minutum"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "14104": {
+      "taxon": {
+        "code": "14104",
+        "libelle": "Gyrosigma sciotense"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "14458": {
+      "taxon": {
+        "code": "14458",
+        "libelle": "Kolbesia gessneri"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "18821": {
+      "taxon": {
+        "code": "18821",
+        "libelle": "Staurosira venter"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "28383": {
+      "taxon": {
+        "code": "28383",
+        "libelle": "Halamphora montana"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "28635": {
+      "taxon": {
+        "code": "28635",
+        "libelle": "Amphora indistincta"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "32463": {
+      "taxon": {
+        "code": "32463",
+        "libelle": "Karayevia clevei"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "32665": {
+      "taxon": {
+        "code": "32665",
+        "libelle": "Fallacia mitis"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "41890": {
+      "taxon": {
+        "code": "41890",
+        "libelle": "Craticula subminuscula"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "42884": {
+      "taxon": {
+        "code": "42884",
+        "libelle": "Tryblionella kuetzingii"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "43146": {
+      "taxon": {
+        "code": "43146",
+        "libelle": "Sellaphora nigri"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "undefined": {
+      "parametre": {
+        "support": "Eau",
+        "fraction": "Eau brute"
+      },
+      "resultat": {
+        "value": 0.01,
+        "unite": "µg/L"
+      }
+    }
+  },
+  "Wed May 26 2021 02:00:00 GMT+0200 (heure d’été d’Europe centrale)": {
+    "6631": {
+      "taxon": {
+        "code": "6631",
+        "libelle": "Diatoma vulgare"
+      },
+      "resultat": {
+        "value": "13",
+        "method": "NbrTax"
+      }
+    },
+    "7076": {
+      "taxon": {
+        "code": "7076",
+        "libelle": "Achnanthidium minutissimum"
+      },
+      "resultat": {
+        "value": "6",
+        "method": "NbrTax"
+      }
+    },
+    "7116": {
+      "taxon": {
+        "code": "7116",
+        "libelle": "Amphora pediculus"
+      },
+      "resultat": {
+        "value": "73",
+        "method": "NbrTax"
+      }
+    },
+    "7843": {
+      "taxon": {
+        "code": "7843",
+        "libelle": "Navicula capitatoradiata"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "7881": {
+      "taxon": {
+        "code": "7881",
+        "libelle": "Navicula cryptotenella"
+      },
+      "resultat": {
+        "value": "67",
+        "method": "NbrTax"
+      }
+    },
+    "7882": {
+      "taxon": {
+        "code": "7882",
+        "libelle": "Navicula cryptotenelloides"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "7948": {
+      "taxon": {
+        "code": "7948",
+        "libelle": "Navicula gregaria"
+      },
+      "resultat": {
+        "value": "12",
+        "method": "NbrTax"
+      }
+    },
+    "7995": {
+      "taxon": {
+        "code": "7995",
+        "libelle": "Navicula lanceolata"
+      },
+      "resultat": {
+        "value": "5",
+        "method": "NbrTax"
+      }
+    },
+    "8114": {
+      "taxon": {
+        "code": "8114",
+        "libelle": "Navicula reichardtiana var. reichardtiana"
+      },
+      "resultat": {
+        "value": "9",
+        "method": "NbrTax"
+      }
+    },
+    "8190": {
+      "taxon": {
+        "code": "8190",
+        "libelle": "Navicula tripunctata"
+      },
+      "resultat": {
+        "value": "20",
+        "method": "NbrTax"
+      }
+    },
+    "8393": {
+      "taxon": {
+        "code": "8393",
+        "libelle": "Planothidium frequentissimum"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "8395": {
+      "taxon": {
+        "code": "8395",
+        "libelle": "Platessa conspicua"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8420": {
+      "taxon": {
+        "code": "8420",
+        "libelle": "Rhoicosphenia abbreviata"
+      },
+      "resultat": {
+        "value": "16",
+        "method": "NbrTax"
+      }
+    },
+    "8600": {
+      "taxon": {
+        "code": "8600",
+        "libelle": "Cyclostephanos invisitatus"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "8719": {
+      "taxon": {
+        "code": "8719",
+        "libelle": "Melosira varians"
+      },
+      "resultat": {
+        "value": "10",
+        "method": "NbrTax"
+      }
+    },
+    "8875": {
+      "taxon": {
+        "code": "8875",
+        "libelle": "Nitzschia dissipata"
+      },
+      "resultat": {
+        "value": "68",
+        "method": "NbrTax"
+      }
+    },
+    "8923": {
+      "taxon": {
+        "code": "8923",
+        "libelle": "Nitzschia heufleriana"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "8955": {
+      "taxon": {
+        "code": "8955",
+        "libelle": "Nitzschia linearis"
+      },
+      "resultat": {
+        "value": "4",
+        "method": "NbrTax"
+      }
+    },
+    "9034": {
+      "taxon": {
+        "code": "9034",
+        "libelle": "Nitzschia sociabilis"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "10597": {
+      "taxon": {
+        "code": "10597",
+        "libelle": "Achnanthidium pyrenaicum"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "11981": {
+      "taxon": {
+        "code": "11981",
+        "libelle": "Caloneis lancettula"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "13689": {
+      "taxon": {
+        "code": "13689",
+        "libelle": "Fistulifera saprophila"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "14001": {
+      "taxon": {
+        "code": "14001",
+        "libelle": "Gomphonema minutum"
+      },
+      "resultat": {
+        "value": "8",
+        "method": "NbrTax"
+      }
+    },
+    "14060": {
+      "taxon": {
+        "code": "14060",
+        "libelle": "Gomphonema olivaceum"
+      },
+      "resultat": {
+        "value": "3",
+        "method": "NbrTax"
+      }
+    },
+    "14664": {
+      "taxon": {
+        "code": "14664",
+        "libelle": "Mayamaea permitis"
+      },
+      "resultat": {
+        "value": "22",
+        "method": "NbrTax"
+      }
+    },
+    "31603": {
+      "taxon": {
+        "code": "31603",
+        "libelle": "Achnanthidium microcephalum"
+      },
+      "resultat": {
+        "value": "13",
+        "method": "NbrTax"
+      }
+    },
+    "37468": {
+      "taxon": {
+        "code": "37468",
+        "libelle": "Surirella lacrimula"
+      },
+      "resultat": {
+        "value": "2",
+        "method": "NbrTax"
+      }
+    },
+    "41890": {
+      "taxon": {
+        "code": "41890",
+        "libelle": "Craticula subminuscula"
+      },
+      "resultat": {
+        "value": "17",
+        "method": "NbrTax"
+      }
+    },
+    "42884": {
+      "taxon": {
+        "code": "42884",
+        "libelle": "Tryblionella kuetzingii"
+      },
+      "resultat": {
+        "value": "1",
+        "method": "NbrTax"
+      }
+    },
+    "43146": {
+      "taxon": {
+        "code": "43146",
+        "libelle": "Sellaphora nigri"
+      },
+      "resultat": {
+        "value": "7",
+        "method": "NbrTax"
+      }
+    },
+    "undefined": {
+      "parametre": {
+        "support": "Eau",
+        "fraction": "Eau brute"
+      },
+      "resultat": {
+        "value": 0.02,
+        "unite": "µg/L"
+      }
+    }
+  }
+}

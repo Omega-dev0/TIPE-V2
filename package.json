@@ -1,0 +1,16 @@
+{
+  "name": "tipe-v2",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "https-proxy-agent": "^7.0.6",
+    "minimist": "^1.2.8"
+  }
+}
