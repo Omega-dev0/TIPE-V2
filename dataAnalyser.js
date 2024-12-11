@@ -1,5 +1,7 @@
 const fs = require('fs');
-const chalk = require('chalk');
+let chalk = require('chalk');
+chalk = chalk.default;
+let minimist = require('minimist');
 const argv = require('minimist')(process.argv.slice(2),{
     string: ['station'],
     boolean: ['f'],
@@ -88,7 +90,7 @@ async function main() {
     for(let taxon in correlationCoefficients){
         for(let parameter in correlationCoefficients[taxon]){
             let correlation = correlationCoefficients[taxon][parameter].correlationCoefficient
-            if(Math.abs(correlation) > 0.7 && correlationCoefficients[taxon][parameter].x.length > 8){
+            if(Math.abs(correlation) > 0.6 && correlationCoefficients[taxon][parameter].x.length > 8){
                 if(topCorrelations[taxon] == undefined){
                     topCorrelations[taxon] = {}
                 }

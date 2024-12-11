@@ -1,5 +1,6 @@
 const fs = require('fs');
-const chalk = require('chalk');
+let chalk = require('chalk');
+chalk = chalk.default;
 const argv = require('minimist')(process.argv.slice(2), {
     string: ['station'],
     boolean: ['f'],
@@ -19,6 +20,12 @@ for (let station of Object.values(stations)) {
         continue
     }
     let report = JSON.parse(fs.readFileSync(`./reports/report-${station.codeStation}.json`, 'utf8'))
+    let dataPoints = JSON.parse(fs.readFileSync(`./dataPoints/dataPoints-${station.codeStation}.json`, 'utf8'));
+
+    if(Object.keys(dataPoints).length < 8){
+        continue
+    }
+
     for (let taxon in report.translationTable.taxons) {
         translationTable[taxon] = report.translationTable.taxons[taxon]
     }

@@ -1,0 +1,4185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03006000</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A MERY-SUR-SEINE 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.8898260304923027,48.50738037964613,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03011300</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A CONFLANS-SUR-SEINE 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.6808252205179675,48.548937958899515,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03011780</value></Data>
+                <Data name="Nom Station"><value>LE RU DE BICHERET A MONTEVRAIN 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.7333720018122842,48.88178697464865,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03011840</value></Data>
+                <Data name="Nom Station"><value>L'ARDUSSON A FERREUX-QUINCEY 2</value></Data>
+                <Data name="Points de données"><value>10</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.588113314028294,48.46612858567709,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03012100</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A COURCEROY 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.4162076716528977,48.46850193633194,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03012355</value></Data>
+                <Data name="Nom Station"><value>L'ORVIN A TRAINEL 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.422835917209975,48.41634409863149,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03013300</value></Data>
+                <Data name="Nom Station"><value>LA VOULZIE A JUTIGNY 1</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.2349334238106118,48.48789357976568,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03013372</value></Data>
+                <Data name="Nom Station"><value>LA GRANDE NOUE D'HERMÉ A GOUAIX 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.29638264566807,48.45796704143966,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03013660</value></Data>
+                <Data name="Nom Station"><value>L'AUXENCE A VIMPELLES 2</value></Data>
+                <Data name="Points de données"><value>10</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.1733799849273177,48.44091953009859,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03013930</value></Data>
+                <Data name="Nom Station"><value>LE RU DE L'ÉTANG A SAINT-GERMAIN-LAVAL 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.9927719395714254,48.3996531927572,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03014000</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A MONTEREAU-FAULT-YONNE 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.9596797785111164,48.388823586511364,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03020650</value></Data>
+                <Data name="Nom Station"><value>LA SUPERBE A MARIGNY 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.8703865466821057,48.67972164794607,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03021000</value></Data>
+                <Data name="Nom Station"><value>L'AUBE A BAUDEMENT 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.7774675127226574,48.57321015366847,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03023700</value></Data>
+                <Data name="Nom Station"><value>LE RU FLAVIEN A VERNOU-LA-CELLE-SUR-SEINE 2</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.8700143584245326,48.38530489590637,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03029140</value></Data>
+                <Data name="Nom Station"><value>L'YONNE A LAROCHE-SAINT-CYDROINE 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.484246048317944,47.96279269749963,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03029470</value></Data>
+                <Data name="Nom Station"><value>L'YONNE A CEZY 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.3440238802002047,47.993965296368565,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03029630</value></Data>
+                <Data name="Nom Station"><value>RU D'OCQ A ST JULIEN DU SAULT</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.2676056320293947,48.02395081967297,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03029798</value></Data>
+                <Data name="Nom Station"><value>LE RU GALANT A VILLENEUVE-SUR-YONNE 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.345076569429797,48.06716418240412,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03029865</value></Data>
+                <Data name="Nom Station"><value>Rû de saint-Ange</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.306748680713942,48.09296657639656,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03029910</value></Data>
+                <Data name="Nom Station"><value>RU DE MONTGERIN À MARSANGY</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.252328417741574,48.11209996282903,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03030000</value></Data>
+                <Data name="Nom Station"><value>L'YONNE A VERON 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.294475147604639,48.13460696760907,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03030155</value></Data>
+                <Data name="Nom Station"><value>LE RU DE COLLEMIERS A GRON 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.2549181078307337,48.15872703930222,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03030457</value></Data>
+                <Data name="Nom Station"><value>LA GAILLARDE A SAINT-DENIS 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.2756926835135367,48.21135247971268,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03030550</value></Data>
+                <Data name="Nom Station"><value>RUISSEAU DES SALLES À COURTOIS SUR YONNE</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.245028066018298,48.22602193629197,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03031040</value></Data>
+                <Data name="Nom Station"><value>L'YONNE A PONT-SUR-YONNE 2</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.2061623959959635,48.287740211542804,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03032000</value></Data>
+                <Data name="Nom Station"><value>L'YONNE A MONTEREAU-FAULT-YONNE 1</value></Data>
+                <Data name="Points de données"><value>14</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.9594782457291635,48.387420033720986,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03039000</value></Data>
+                <Data name="Nom Station"><value>L'ARMANÇON A CHENY 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.531826155985912,47.95600842543689,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03043450</value></Data>
+                <Data name="Nom Station"><value>L'ANCRE A ESTISSAC 1</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.8217533433173685,48.24982097208029,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03044170</value></Data>
+                <Data name="Nom Station"><value>LA NOSLE A AIX-EN-OTHE 1</value></Data>
+                <Data name="Points de données"><value>10</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.7436682302424544,48.211780989838005,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03044490</value></Data>
+                <Data name="Nom Station"><value>RUISSEAU DE CERILLY À FLACY</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.615520053920093,48.21821107401413,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03044580</value></Data>
+                <Data name="Nom Station"><value>LA VANNE A MOLINONS 1</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.53640122036871,48.232177556331415,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03044690</value></Data>
+                <Data name="Nom Station"><value>L'ALAIN A MOLINONS 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.5347873939698755,48.24595656857469,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03046200</value></Data>
+                <Data name="Nom Station"><value>LE RU DE LA VALLEE JAVOT A FONTAINE-LE-PORT 1</value></Data>
+                <Data name="Points de données"><value>6</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.7815374973775215,48.45798306618479,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03047445</value></Data>
+                <Data name="Nom Station"><value>L'ÉCOLE A ONCY-SUR-ECOLE 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.4794444982665484,48.386994815966176,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03047740</value></Data>
+                <Data name="Nom Station"><value>LE RU D'AUVERNAUX A SAINT FARGEAU-PONTHIERRY 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.532810067719741,48.52864902510496,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03048000</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A SAINT-FARGEAU-PONTHIERRY 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.5478621228796294,48.53751414017467,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03050000</value></Data>
+                <Data name="Nom Station"><value>LE RUISSEAU DES HAULDRES A ETIOLLES 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.4657770528927854,48.63277793655958,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03051500</value></Data>
+                <Data name="Nom Station"><value>LE RU D'ANCOEUIL A MOISENAY 1</value></Data>
+                <Data name="Points de données"><value>10</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.74099100794326,48.558880551342796,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03051580</value></Data>
+                <Data name="Nom Station"><value>LE RU DE RUBELLES A MELUN 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.679341232328585,48.550235344952966,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03053310</value></Data>
+                <Data name="Nom Station"><value>LA CLÉRY A SAINT-LOUP-DE-GONOIS 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.914761934857615,48.05851004867299,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03054000</value></Data>
+                <Data name="Nom Station"><value>LE LOING A SOUPPES-SUR-LOING 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.728316798973004,48.18302711017299,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03057720</value></Data>
+                <Data name="Nom Station"><value>LE FUSAIN A COURTEMPIERRE 1</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.636849706165,48.11056055299363,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03058150</value></Data>
+                <Data name="Nom Station"><value>LE RU DE COLOMBEAU A LA BELLIOLE</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.1043011530533136,48.1528385668459,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03059000</value></Data>
+                <Data name="Nom Station"><value>LE LUNAIN A NONVILLE 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.782063273557446,48.29541185783646,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03061660</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A RIS-ORANGIS 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.4165828748820015,48.66074678337834,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03063000</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A ABLON-SUR-SEINE 2</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.4155962897195424,48.718668250029275,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03063650</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A ORLY 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.433822466063175,48.74773613028202,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03064385</value></Data>
+                <Data name="Nom Station"><value>LE RUISSEAU DE LA VARENNE A MAREAU AUX BOIS 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.1929745536625393,48.104407282386994,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03066000</value></Data>
+                <Data name="Nom Station"><value>L'ESSONNE A BUNO-BONNEVAUX 2</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.383236138871621,48.36070049398018,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03068100</value></Data>
+                <Data name="Nom Station"><value>LA JUINE A AUTRUY-SUR-JUINE 1</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.0972698880103464,48.29183618162424,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03069000</value></Data>
+                <Data name="Nom Station"><value>L'ESSONNE A BALLANCOURT-SUR-ESSONNE 3</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.373279504273947,48.53741478309005,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03070440</value></Data>
+                <Data name="Nom Station"><value>L'ESSONNE A CORBEIL-ESSONNES 4</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.480764386881187,48.608188710923415,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03071080</value></Data>
+                <Data name="Nom Station"><value>L'ORGE A SERMAISE 2</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.0798171377618693,48.538894375445764,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03071830</value></Data>
+                <Data name="Nom Station"><value>L'ORGE A SAINT-MICHEL-SUR-ORGE 2</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.293624769212496,48.634103367113106,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03073000</value></Data>
+                <Data name="Nom Station"><value>L'ORGE A SAVIGNY-SUR-ORGE 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.3550705037211777,48.67090000976436,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03076000</value></Data>
+                <Data name="Nom Station"><value>L'YVETTE A CHEVREUSE 2</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.0376078400039863,48.705001583087416,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03076220</value></Data>
+                <Data name="Nom Station"><value>L'YVETTE A SAINT-REMY-LES-CHEVREUSE 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.089013491203066,48.70458666379703,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03076443</value></Data>
+                <Data name="Nom Station"><value>LA MERANTAISE A GIF-SUR-YVETTE 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.1315539906035936,48.7027361489179,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03076899</value></Data>
+                <Data name="Nom Station"><value>LE ROUILLON A LONGJUMEAU 1</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.3193497368138005,48.684688561667514,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03077596</value></Data>
+                <Data name="Nom Station"><value>LE RU DE L'ÉTANG DE BEUVRON A TOUQUIN 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.0277085080273585,48.730421395974616,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03078110</value></Data>
+                <Data name="Nom Station"><value>L'YERRES A COURTOMER 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.9034254510518527,48.650945944952404,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03078600</value></Data>
+                <Data name="Nom Station"><value>L'YERRES A SOIGNOLLES-EN-BRIE 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.693566076829179,48.65299273231315,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03078832</value></Data>
+                <Data name="Nom Station"><value>LE RU DU CORNILLOT A BRIE-COMTE-ROBERT 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.621273269204951,48.677502662764276,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03079622</value></Data>
+                <Data name="Nom Station"><value>LE RÉVEILLON A VILLECRESNES 2</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.5430709088218872,48.720465672112184,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03079850</value></Data>
+                <Data name="Nom Station"><value>L'YERRES A CROSNE 2</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.4645306366214537,48.710829763804156,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03080660</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A ALFORTVILLE 3</value></Data>
+                <Data name="Points de données"><value>6</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.410053858393462,48.814653806865365,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03081000</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A PARIS-12E--ARRONDISSEMENT 1</value></Data>
+                <Data name="Points de données"><value>5</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.3815423651905463,48.83258716372681,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03082000</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A SURESNES 2</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.229494609256609,48.86670775533286,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03082560</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A CLICHY 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.310467069698256,48.91288012713415,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03083125</value></Data>
+                <Data name="Nom Station"><value>LE RU D'ENGHIEN A MONTLIGNON 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.288865251343243,49.01527783742147,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03083450</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A COLOMBES 2</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.220389022364487,48.92040201826379,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03084470</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A MAISONS-LAFFITTE 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.157759113463812,48.944448349196875,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03085000</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A CONFLANS-SAINTE-HONORINE 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.082900234734093,48.988638724480275,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03105500</value></Data>
+                <Data name="Nom Station"><value>LA MARNE A REUIL 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.7973339541157554,49.081358449520685,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03105865</value></Data>
+                <Data name="Nom Station"><value>LE RU LA SEMOIGNE A VILLER-AGRON-AGUISY 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.693273104734236,49.16454777260618,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03105932</value></Data>
+                <Data name="Nom Station"><value>LA SEMOIGNE A PASSY-GRIGNY 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.6791258182962125,49.11943501539162,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03105946</value></Data>
+                <Data name="Nom Station"><value>LA SEMOIGNE A VERNEUIL 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.674500487491022,49.092432803101865,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03106204</value></Data>
+                <Data name="Nom Station"><value>LE RU DES HATTIERS  A TRELOU-SUR-MARNE 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.608090525362704,49.07430036284624,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03108098</value></Data>
+                <Data name="Nom Station"><value>LA MARNE A AZY-SUR-MARNE 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.3689827835003823,49.000064900458,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03108290</value></Data>
+                <Data name="Nom Station"><value>L'OURCQ A FERE-EN-TARDENOIS 1</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.5271210189499627,49.19274427582588,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03108850</value></Data>
+                <Data name="Nom Station"><value>LE RU DE MONTREUIL-AUX-LIONS A MONTREUIL-AUX-LIONS 1</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.189724067561589,49.0166047722601,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03109000</value></Data>
+                <Data name="Nom Station"><value>LA MARNE A LA FERTE-SOUS-JOUARRE 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.1246013264628036,48.944716517671836,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03109935</value></Data>
+                <Data name="Nom Station"><value>LE RU DES CYGNES A NANTEUIL-LES-MEAUX 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.9045657283334494,48.93374541379257,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03112480</value></Data>
+                <Data name="Nom Station"><value>LA MARNE A CHARENTON-LE-PONT 2</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.4196297902664172,48.81689515569205,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03112665</value></Data>
+                <Data name="Nom Station"><value>LE SURMELIN A BAULNE-EN-BRIE 2</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.5988743374686103,49.00034283609305,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03112710</value></Data>
+                <Data name="Nom Station"><value>LE SURMELIN A CELLES-LES-CONDE 3</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.569816931666996,49.00892800873376,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03112740</value></Data>
+                <Data name="Nom Station"><value>LA DHUYS A PARGNY-LA-DHUYS 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.552461663998249,48.95280664459681,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03113000</value></Data>
+                <Data name="Nom Station"><value>LE SURMELIN A CREZANCY 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.518891695643478,49.049209163200175,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03113040</value></Data>
+                <Data name="Nom Station"><value>LE SURMELIN A MEZY-MOULINS 1</value></Data>
+                <Data name="Points de données"><value>10</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.515929282785281,49.05945452707295,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03113490</value></Data>
+                <Data name="Nom Station"><value>LE RU DES ÉGREMONTS A MONTMIRAIL 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.5243479132828988,48.8726567234237,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03113895</value></Data>
+                <Data name="Nom Station"><value>LE RU DE LA FONDERIE A ORLY-SUR-MORIN 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.2293984571970578,48.90241300409376,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03114000</value></Data>
+                <Data name="Nom Station"><value>LE PETIT MORIN A SAINT-CYR-SUR-MORIN 2</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.151645698449254,48.930612000699256,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03114123</value></Data>
+                <Data name="Nom Station"><value>LE RU DE COUPE A CIERGES 1</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.589215737317583,49.16726296665825,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03114125</value></Data>
+                <Data name="Nom Station"><value>LE RU DE COUPE A CIERGES 2</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.5808803339733557,49.16820892765005,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03114386</value></Data>
+                <Data name="Nom Station"><value>LE RU VACHET A SAPONAY 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.4745563740918257,49.212188577696224,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03114690</value></Data>
+                <Data name="Nom Station"><value>L'ORDRIMOUILLE A NANTEUIL-NOTRE-DAME 1</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.4071806942034133,49.19007166767261,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03114735</value></Data>
+                <Data name="Nom Station"><value>LE RU GARNIER A ARMENTIERES-SUR-OURCQ 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.383879570120798,49.18314502907896,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03115000</value></Data>
+                <Data name="Nom Station"><value>L'OURCQ A VICHEL-NANTEUIL 1</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.268914167218603,49.187169151207684,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03115460</value></Data>
+                <Data name="Nom Station"><value>LA SAVIÈRES A TROESNES 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.1650720071925207,49.19614876542445,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03115616</value></Data>
+                <Data name="Nom Station"><value>LE RU D'ALLAN A MAROLLES 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.1072741438831275,49.14851040179424,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03115816</value></Data>
+                <Data name="Nom Station"><value>LE CLIGNON A BRUMETZ 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.1685147072888182,49.09907086483573,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03115955</value></Data>
+                <Data name="Nom Station"><value>LA GERGOGNE A MAY-EN-MULTIEN 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.0321144267356606,49.08556295117133,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03116600</value></Data>
+                <Data name="Nom Station"><value>LE RU DE BONNEVAL A TREFOLS 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.4920481313311056,48.78789989806727,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03116720</value></Data>
+                <Data name="Nom Station"><value>LE GRAND MORIN A VILLENEUVE-LA-LIONNE 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.444805842279282,48.78299407664471,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03117565</value></Data>
+                <Data name="Nom Station"><value>LE RU DE RABOIREAU A CHAUFFRY 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.185978692531763,48.810550466489964,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03117800</value></Data>
+                <Data name="Nom Station"><value>L'ORGEVAL A COULOMMIERS 2</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.1105739071695475,48.82184742258676,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03118300</value></Data>
+                <Data name="Nom Station"><value>LE GRAND MORIN A TIGEAUX 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.903299343100501,48.82933553411237,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03118890</value></Data>
+                <Data name="Nom Station"><value>LE RU DU MESNIL A COUILLY-PONT-AUX-DAMES 1</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.867186176781445,48.87821513955714,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03122008</value></Data>
+                <Data name="Nom Station"><value>LA BIÈVRE A VERRIERES-LE-BUISSON 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.2294810581422837,48.74596269461969,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03125000</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A POISSY 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.0388350439971075,48.9367818903955,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03125500</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A TRIEL-SUR-SEINE 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.001149396216619,48.97848948780391,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03125925</value></Data>
+                <Data name="Nom Station"><value>LE RUISSEAU D'ORGEVAL A CHAPET 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.9248784188947283,48.964430404774305,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03126000</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A MEULAN 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.9072265544993787,48.999766343428014,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03126704</value></Data>
+                <Data name="Nom Station"><value>LE RU DE SENNEVILLE A GUERVILLE 1</value></Data>
+                <Data name="Points de données"><value>5</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.7489840525691918,48.94678783495806,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03127370</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A MERICOURT 4</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.6112288784749749,49.021328188018856,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03127550</value></Data>
+                <Data name="Nom Station"><value>LE RU DE LA VALLÉE DU ROI A VETHEUIL 2</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.7014600400068198,49.06409320567615,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03128000</value></Data>
+                <Data name="Nom Station"><value>LA SEINE A BONNIERES-SUR-SEINE 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.5719745126272937,49.037038768598606,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03133000</value></Data>
+                <Data name="Nom Station"><value>L'OISE A CHIRY-OURSCAMPS 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.9698970151576414,49.5350243149477,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03133908</value></Data>
+                <Data name="Nom Station"><value>LE RUISSEAU PAYELLE A REMY 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.7284237533228506,49.461826684854564,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03133937</value></Data>
+                <Data name="Nom Station"><value>L'ARONDE A CLAIROIX 1</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.852919663868231,49.43981471262424,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03134000</value></Data>
+                <Data name="Nom Station"><value>L'OISE A COMPIEGNE 1</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.787097304890063,49.39829908743364,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03134560</value></Data>
+                <Data name="Nom Station"><value>L'AUTOMNE A COYOLLES 1</value></Data>
+                <Data name="Points de données"><value>5</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.0440014479185433,49.23661041579619,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03134708</value></Data>
+                <Data name="Nom Station"><value>LE RU DES TAILLANDIERS A DUVY 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.6965148438699864,49.279540392208126,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03134730</value></Data>
+                <Data name="Nom Station"><value>LA RIVIÈRE SAINTE-MARIE A GLAIGNES 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.8500355444383985,49.270605469983444,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03134800</value></Data>
+                <Data name="Nom Station"><value>L'AUTOMNE A SAINTINES 2</value></Data>
+                <Data name="Points de données"><value>9</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.7736976962099975,49.307190494428376,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03135000</value></Data>
+                <Data name="Nom Station"><value>L'OISE A VERBERIE 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.7241669771742067,49.3118248805728,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03135360</value></Data>
+                <Data name="Nom Station"><value>LE RU DE ROUCANNE A RHUIS 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.689248085674359,49.30890727967334,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03135860</value></Data>
+                <Data name="Nom Station"><value>LE RUISSEAU FOSSÉ TRAXIN A PONTPOINT 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.636917198899134,49.30566112147856,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03136000</value></Data>
+                <Data name="Nom Station"><value>L'OISE A PONT-SAINTE-MAXENCE 2</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.6041643025603536,49.30289733504213,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03136600</value></Data>
+                <Data name="Nom Station"><value>LE RHONY A RIEUX 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.5173675197750773,49.29987576797478,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03136840</value></Data>
+                <Data name="Nom Station"><value>LE RU MACQUART A VERNEUIL-EN-HALATTE 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.5178761795057105,49.28072996204349,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03137000</value></Data>
+                <Data name="Nom Station"><value>L'OISE A CREIL 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.473972282943756,49.261973662787895,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03137290</value></Data>
+                <Data name="Nom Station"><value>L'OISE A SAINT-LEU-D'ESSERENT 1</value></Data>
+                <Data name="Points de données"><value>5</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.4230712291838725,49.213553763069996,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03138000</value></Data>
+                <Data name="Nom Station"><value>L'OISE A BEAUMONT-SUR-OISE 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.285255527318485,49.145447104528294,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03138390</value></Data>
+                <Data name="Nom Station"><value>L'ESCHES A BORNEL 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.2031827755664315,49.20008232546031,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03138410</value></Data>
+                <Data name="Nom Station"><value>LA GOBETTE A BORNEL 1</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.2258649463885276,49.20446479109682,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03138485</value></Data>
+                <Data name="Nom Station"><value>L'ESCHES A PERSAN 1</value></Data>
+                <Data name="Points de données"><value>6</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.27139137403557,49.14504029518818,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03138800</value></Data>
+                <Data name="Nom Station"><value>L'OISE A MERIEL 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.204057120153075,49.084370916613864,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03139015</value></Data>
+                <Data name="Nom Station"><value>LE RU DE LIESSE A SAINT-OUEN-L'AUMONE 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.126990991346213,49.0368704681876,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03140400</value></Data>
+                <Data name="Nom Station"><value>LA VIOSNE A ABLEIGES 1</value></Data>
+                <Data name="Points de données"><value>9</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.985400521314428,49.08749001897753,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03141902</value></Data>
+                <Data name="Nom Station"><value>LE RU DU MARAIS A ATHIES-SOUS-LAON 1</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.6814752606346683,49.55523679709095,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03142340</value></Data>
+                <Data name="Nom Station"><value>LE RU DE BORDET A ANIZY-LE-CHATEAU 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.432713526191425,49.50242317705222,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03142424</value></Data>
+                <Data name="Nom Station"><value>LE BRAS DE BASSE A ANIZY-LE-CHATEAU 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.3870973029898437,49.492358564963396,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03142520</value></Data>
+                <Data name="Nom Station"><value>L'AILETTE A LANDRICOURT 2</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.3631885646853616,49.49266623328542,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03151139</value></Data>
+                <Data name="Nom Station"><value>LE RU DE FAYAU A JUVINCOURT-ET-DAMARY 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.8796901173178955,49.46461385749014,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03152000</value></Data>
+                <Data name="Nom Station"><value>L'AISNE A CONDE-SUR-AISNE 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.4752107299080217,49.39857783251475,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03152930</value></Data>
+                <Data name="Nom Station"><value>LE RU PREUX A ACY 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.420875507821405,49.352648799634,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03153710</value></Data>
+                <Data name="Nom Station"><value>LE VOIDON A MERCIN-ET-VAUX 2</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.2613437777464584,49.374525386050095,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03153770</value></Data>
+                <Data name="Nom Station"><value>LE RUISSEAU DE JUVIGNY A OSLY-COURTIL 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.2475646663640627,49.394916383642055,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03153950</value></Data>
+                <Data name="Nom Station"><value>LE RU DE RETZ A AMBLENY 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.188885795037708,49.379966439486985,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03156000</value></Data>
+                <Data name="Nom Station"><value>L'AISNE A CHOISY-AU-BAC 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.8764701590247,49.43614694831149,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03160900</value></Data>
+                <Data name="Nom Station"><value>LA VESLE A CHALONS-SUR-VESLE 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.9220335443035004,49.278206869857364,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03162000</value></Data>
+                <Data name="Nom Station"><value>LA VESLE A CHASSEMY 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.479757041119805,49.373580331370164,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03162240</value></Data>
+                <Data name="Nom Station"><value>LA BRÈCHE A ETOUY 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.3570144796062187,49.41499773830455,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03162325</value></Data>
+                <Data name="Nom Station"><value>L'ARRE A VALESCOURT 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.4401284706629065,49.48365763398278,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03162365</value></Data>
+                <Data name="Nom Station"><value>L'ARRE A AIRION 1</value></Data>
+                <Data name="Points de données"><value>9</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.414714977461748,49.424467731969976,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03162430</value></Data>
+                <Data name="Nom Station"><value>LE RU DE LA GARDE A CLERMONT 1</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.4245343702756563,49.384245962977545,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03162900</value></Data>
+                <Data name="Nom Station"><value>LA BERONNELLE A LIANCOURT 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.456132232279024,49.33085365782185,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03163000</value></Data>
+                <Data name="Nom Station"><value>LA BRÈCHE A RANTIGNY 1</value></Data>
+                <Data name="Points de données"><value>9</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.449166116843808,49.32372055221087,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03163400</value></Data>
+                <Data name="Nom Station"><value>LE THERAIN A SONGEONS 1</value></Data>
+                <Data name="Points de données"><value>1</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.8298950822701077,49.54875426810143,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03163750</value></Data>
+                <Data name="Nom Station"><value>LE PETIT THÉRAIN A ACHY 1</value></Data>
+                <Data name="Points de données"><value>11</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.9821093558411238,49.54662126838679,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03163805</value></Data>
+                <Data name="Nom Station"><value>LE RUISSEAU DE L'HERPERIE A SAINT-OMER-EN-CHAUSSEE 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.0011828460451744,49.53394529359264,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03164180</value></Data>
+                <Data name="Nom Station"><value>L'AVELON A LACHAPELLE-AUX-POTS 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.9366953674606806,49.43233176318275,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03164184</value></Data>
+                <Data name="Nom Station"><value>LE RUISSEAU DES RAQUES A BLACOURT 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.8741492844687802,49.44877327273746,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03164250</value></Data>
+                <Data name="Nom Station"><value>LE RU D'AUNEUIL A RAINVILLERS 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.0089839253238897,49.40295804887589,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03164285</value></Data>
+                <Data name="Nom Station"><value>L'AVELON A GOINCOURT 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.0391399826574506,49.422689283275076,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03164330</value></Data>
+                <Data name="Nom Station"><value>LE THERAIN A BEAUVAIS 1</value></Data>
+                <Data name="Points de données"><value>9</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.060985027924059,49.45646024639154,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03164900</value></Data>
+                <Data name="Nom Station"><value>LE FOSSÉ D'ORGUEIL A WARLUIS 1</value></Data>
+                <Data name="Points de données"><value>0</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.1461473484172418,49.39967110932652,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03165011</value></Data>
+                <Data name="Nom Station"><value>LA LAVERSINES A ROCHY-CONDE 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.1876434043031723,49.405952401417466,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03165020</value></Data>
+                <Data name="Nom Station"><value>LE THERAIN A ROCHY-CONDE 2</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.1811502281966506,49.39934677836766,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03165200</value></Data>
+                <Data name="Nom Station"><value>LA TRYE A BAILLEUL-SUR-THERAIN 2</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.2441610012648567,49.36935621940567,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03165295</value></Data>
+                <Data name="Nom Station"><value>LE THERAIN A HERMES 1</value></Data>
+                <Data name="Points de données"><value>3</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.245648784986382,49.355162640241424,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03166050</value></Data>
+                <Data name="Nom Station"><value>LE THERAIN A MAYSEL 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.3780941556248467,49.261985011918505,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03166490</value></Data>
+                <Data name="Nom Station"><value>LE THERAIN A MONTATAIRE 2</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.4512671248241333,49.243811636147704,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03167000</value></Data>
+                <Data name="Nom Station"><value>LE SAUSSERON A NESLES-LA-VALLEE 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.1715358690256608,49.12606104889504,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03167350</value></Data>
+                <Data name="Nom Station"><value>LA LAUNETTE A VER-SUR-LAUNETTE 1</value></Data>
+                <Data name="Points de données"><value>4</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.687841157429683,49.10272192610312,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03167740</value></Data>
+                <Data name="Nom Station"><value>L'AUNETTE A CHAMANT 2</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.612739851974199,49.21707239231317,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03167820</value></Data>
+                <Data name="Nom Station"><value>LA NONETTE A COURTEUIL 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.55356435744399,49.19930064669974,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03168035</value></Data>
+                <Data name="Nom Station"><value>LA NONETTE A GOUVIEUX 1</value></Data>
+                <Data name="Points de données"><value>10</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.430172608635878,49.195525727168345,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03168690</value></Data>
+                <Data name="Nom Station"><value>LE RUISSEAU DU LIEUTEL A NEAUPHLE-LE-VIEUX 1</value></Data>
+                <Data name="Points de données"><value>9</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.8609791764842813,48.8131569807557,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03170100</value></Data>
+                <Data name="Nom Station"><value>LA MAULDRE A EPONE 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.8237406937627763,48.967727805658456,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03171770</value></Data>
+                <Data name="Nom Station"><value>LA FLEXANVILLE A SEPTEUIL 2</value></Data>
+                <Data name="Points de données"><value>7</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.6716769919429086,48.89960133534633,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03171880</value></Data>
+                <Data name="Nom Station"><value>LA VAUCOULEURS A VILLETTE 2</value></Data>
+                <Data name="Points de données"><value>10</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.6920403808450897,48.927454965569474,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03174695</value></Data>
+                <Data name="Nom Station"><value>LA RIVIÈRE DE MÉSANGUEVILLE A DAMPIERRE-EN-BRAY 2</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.6867269221309982,49.53303395770556,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03175000</value></Data>
+                <Data name="Nom Station"><value>L'EPTE A BOUCHEVILLIERS 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.7108633843794858,49.40214448562216,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03176945</value></Data>
+                <Data name="Nom Station"><value>LA LÉVRIÈRE A NEAUFLES-SAINT-MARTIN 1</value></Data>
+                <Data name="Points de données"><value>13</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.735234081947942,49.27294378639252,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03178000</value></Data>
+                <Data name="Nom Station"><value>L'EPTE A FOURGES 1</value></Data>
+                <Data name="Points de données"><value>12</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>1.6451225604466082,49.11998032248764,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03277173</value></Data>
+                <Data name="Nom Station"><value>LE CANAL LATÉRAL À L'AISNE A PONTAVERT 1</value></Data>
+                <Data name="Points de données"><value>2</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.8194994170742973,49.4003581221839,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>03277367</value></Data>
+                <Data name="Nom Station"><value>LE CANAL DE L'OISE À L'AISNE A GUNY 2</value></Data>
+                <Data name="Points de données"><value>7</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>3.2727780116376213,49.51946115782067,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    
+        <Placemark>
+            <name></name>
+            
+            
+            <ExtendedData>
+                <Data name="Code Station"><value>04050100</value></Data>
+                <Data name="Nom Station"><value>OUSSANCE à INGRANNES</value></Data>
+                <Data name="Points de données"><value>9</value></Data>
+            </ExtendedData>
+        
+            <Point>
+                <coordinates>2.227297820694886,47.99631331976764,0</coordinates>
+            </Point>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+        </Placemark>
+    </Document>
+    </kml>

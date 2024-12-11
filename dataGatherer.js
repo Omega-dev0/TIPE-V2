@@ -1,5 +1,6 @@
 const fs = require('fs');
-const chalk = require('chalk');
+let chalk = require('chalk');
+chalk = chalk.default;
 const argv = require('minimist')(process.argv.slice(2),{
     string: ['station'],
     boolean: ['f'],
